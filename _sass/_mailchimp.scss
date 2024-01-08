@@ -1,6 +1,90 @@
-#mc_embed_signup {
-  background: #fff;
-  clear: left;
-  font: 14px Helvetica, Arial, sans-serif;
-  width: 600px;
+.newsletter {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: $second-base-color;
+
+  .head_block {
+    background: $base-color;
+    border-radius: 4px;
+    padding: 40px;
+  }
+
+  .mbr-section-subtitle {
+    margin-bottom: 12px;
+    color: #232226;
+  }
+
+  .mbr-text {
+    margin-bottom: 12px;
+    margin-top: 2rem;
+    color: #232226;
+  }
+
+  .subscribe_form {
+    padding-bottom: 50px;
+  }
+
+  .form-group {
+    margin-bottom: 0;
+    padding-right: 0;
+  }
+
+  .form-control {
+    border: none !important;
+    padding: 14px 18px;
+    background-color: $base-color !important;
+    font-size: 16px;
+    color: #232226;
+    border-radius: 4px;
+  }
+
+  .input-group-btn {
+    padding-left: 0;
+
+    .btn {
+      font-weight: 600;
+      padding: 11px 18px;
+      width: 100%;
+    }
+  }
+
+  .mbr-form {
+    .input-group-btn {
+      .btn {
+        border-radius: 4px !important;
+      }
+    }
+
+    .btn {
+      margin: 0;
+    }
+  }
+
+  input {
+    &::-webkit-input-placeholder {
+      color: #232226;
+      opacity: .6;
+    }
+
+    &::-moz-placeholder {
+      color: #232226;
+      opacity: .6;
+    }
+  }
+
+  .line {
+    background-color: #232226;
+    height: 1px;
+  }
+
+  .mbr-section-title {
+    color: #232226;
+  }
+
+  @media (max-width: 767px) {
+    .head_block {
+      padding: 20px;
+    }
+
+  }
 }
