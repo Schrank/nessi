@@ -18,6 +18,8 @@ github_username: null
 insta_username: phillips-art
 facebook_username: null
 
+copyright: '&copy; 2023<script>new Date().getFullYear()>2010&&document.write("-"+new Date().getFullYear());</script> Vanessa Phillips'
+
 logo:
   mobile: "assets/images/logo/logomobile.png"
   mobile_height: "32px"
