@@ -13,21 +13,21 @@
             <div class="col-12 col-lg">
                 <p class="mbr-text mbr-semibold mbr-fonts-style display-4">Sign up for our Newsletter!</p>
                 <div class="subscribe_form" data-form-type="formoid">
-                    <!---Formbuilder Form--->
                     <form action="https://hotmail.us14.list-manage.com/subscribe/post?u=4e8e0f06529561c2d85356479&amp;id=349846a7f4&amp;f_id=00bb8ce0f0"
                           method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
                           class="validate" target="_blank">
                         <div class="row">
-                            <div id="mce-responses" class="clear foot">
+                            <div id="mce-responses" class="clear foot col-12">
                                 <div class="response" id="mce-error-response" style="display: none;"></div>
                                 <div class="response" id="mce-success-response" style="display: none;"></div>
                             </div>
                         </div>
                         <div aria-hidden="true" style="position: absolute; left: -5000px;">
+                            {% comment %}
                             /* real people should not fill this in and expect good things - do not remove this
                             or risk form bot signups */
-                            <input type="text" name="b_4e8e0f06529561c2d85356479_349846a7f4" tabindex="-1"
-                                   value="">
+                            {% endcomment %}
+                            <input type="text" name="b_4e8e0f06529561c2d85356479_349846a7f4" tabindex="-1" value="">
                         </div>
                         <div class="dragArea row">
                             <div class="form-group col-12 col-sm-8" data-for="email">
@@ -39,7 +39,8 @@
                             </div>
                             <div class="col-12 col-sm-4 input-group-btn mt-3 mt-sm-0">
                                 <button type="submit" name="subscribe" id="mc-embedded-subscribe"
-                                        class="btn btn-primary display-4">Subscribe
+                                        class="btn btn-primary display-4">
+                                    Anmelden
                                 </button>
                             </div>
                         </div>
