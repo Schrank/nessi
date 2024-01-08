@@ -1,34 +1,38 @@
 <section class="menu1 cid-sa6nSF5W0u" id="menu1-0">
-
-
-
-
     <nav class="navbar navbar-dropdown navbar-expand-lg">
         <div class="container-fluid">
-
-
             <div class="menu_wrapper d-flex">
                 <div class="top_menu">
                     <div class="empty"></div>
                     <div class="navbar-brand">
-
-                        <span class="navbar-caption-wrap"><a class="navbar-caption mbr-bold text-primary display-7" href="../index.html">EconomyBlog<br></a></span>
+                        <span class="navbar-caption-wrap">
+                            <a class="navbar-caption mbr-bold text-primary display-7" href="../index.html">
+                                EconomyBlog<br>
+                            </a>
+                        </span>
                     </div>
                     <div class="icons-menu">
-                        <a href="https://mobiri.se" target="_blank" class="icons-wrapper">
+                        {% if site.facebook_username %}
+                        <a href="http://facebook.com/{{ site.facebook_username }}" target="_blank"
+                           class="icons-wrapper">
                             <span class="mbr-iconfont p-2 socicon-facebook socicon"></span>
                         </a>
-                        <a href="https://mobiri.se" target="_blank" class="icons-wrapper">
+                        {% endif %}
+                        {% if site.insta_username %}
+                        <a href="https://www.instagram.com/{{  site.insta_username }}/" target="_blank"
+                           class="icons-wrapper">
                             <span class="mbr-iconfont p-2 socicon-instagram socicon"></span>
                         </a>
-                        <a href="https://mobiri.se" target="_blank" class="icons-wrapper">
+                        {% endif %}
+                        {% if site.twitter_username %}
+                        <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" class="icons-wrapper">
                             <span class="mbr-iconfont p-2 socicon-twitter socicon"></span>
                         </a>
-
-
-
+                        {% endif %}
                     </div>
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse"
+                            data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup"
+                            aria-expanded="false" aria-label="Toggle navigation">
                         <div class="hamburger">
                             <span></span>
                             <span></span>
@@ -40,9 +44,10 @@
 
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
-                        <a class="nav-link link text-primary display-4" href="../index.html">Main</a>
-                    </li>
+                    <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
+                        <li class="nav-item">
+                            <a class="nav-link link text-primary display-4" href="../index.html">Main</a>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link link text-primary display-4" href="#">Latest News</a>
                         </li>
@@ -54,7 +59,8 @@
                         </li>
                         <li class="nav-item">
                             <a class="nav-link link text-primary display-4" href="#">Contacts</a>
-                        </li></ul>
+                        </li>
+                    </ul>
 
                 </div>
             </div>

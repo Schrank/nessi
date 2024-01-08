@@ -13,9 +13,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
 permalink: /:title:output_ext
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: null
+github_username: null
 insta_username: phillips-art
+facebook_username: null
 
 logo:
   mobile: "assets/images/logo/logomobile.png"
