@@ -1,0 +1,104 @@
+---
+layout: default
+bodyClass: "page-home"
+---
+
+<section class="header5 cid-sa6pdusY2m">
+    <div class="pos_rel">
+        <div class="main_section_title">
+            <div class="empty_content"></div>
+            <div class="main_title">
+                <h3 class="mbr-section-subtitle mbr-semibold mbr-fonts-style display-4">Main</h3>
+                <h1 class="mbr-section-title mbr-fonts-style mb-0 display-5"><strong>We've learned everything about
+                    economics
+                </strong></h1>
+            </div>
+        </div>
+        <div class="block-content">
+            <div class="text-wrapper text-white">
+                <h4 class="card_subtitle mbr-medium mb-2 mbr-fonts-style display-4">Article</h4>
+                <h3 class="card_title mbr-fonts-style mb-3 display-5"><strong><a href="#" class="text-primary">It is
+                    difficult to argue with the arguments that we will give in this article</a></strong></h3>
+                <p class="mbr-text mbr-fonts-style display-4">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam blanditiis voluptas incidunt ab
+                    obcaecati excepturi beatae iste, voluptate! Earum asperiores ipsum, necessitatibus ea dolor ab ex.
+                    Ipsam eaque cumque eos.</p>
+                <div class="mbr-section-btn">
+
+                    Read More
+                    <span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>
+                    </a>
+                </div>
+            </div>
+            <div class="image-wrapper">
+                <img class="w-100" src="assets/images/1.jpg" alt="Mobirise">
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="features7 cid-sa6pO17Hys">
+    <div class="container posts">
+        <div class="row align-items-end mb-4">
+            <div class="col-12 col-sm-6">
+                <div class="mbr-section-head">
+                    <h2 class="mbr-section-title mb-0 mbr-fonts-style display-5"><strong>Portfolio</strong></h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            {% for image in site.posts %}
+
+            <div class="item features-image сol-12 col-lg-6">
+                <div class="item-wrapper">
+                    <div class="item-img">
+                        <a href="{{ image.url }}">
+                            <img src="{{ image.image | relative_url}}" alt="{{ image.alt }}">
+                        </a>
+                    </div>
+                    <div class="card-content text-white">
+                        <div class="post_wrap">
+                            <div class="card_post">
+                                <div class="image_post">
+                                    <img src="{{ image.poster.image | relative_url}}" alt="{{image.poster.name}}">
+                                </div>
+                                <div class="author_post">
+                                    <a href="{{ image.url }}">
+                                        <p class="author mb-0 mbr-fonts-style display-4">Posted by
+                                            <strong>{{ image.poster.name }}</strong>
+                                        </p>
+                                        <p class="date mb-0 mbr-fonts-style display-4">{{ image.date |
+                                            date_to_long_string}}</p>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="item-content">
+                            <div>
+                                <h5 class="item-title mbr-fonts-style display-7">
+                                    <a href="{{ image.url }}"><strong>{{ image.title }}</strong></a>
+                                </h5>
+                                <a href="{{ image.url }}">
+                                    {{ image.excerpt }}
+                                </a>
+                                <!--                                <p class="mbr-text mbr-fonts-style display-4">Lorem ipsum dolor sit amet,-->
+                                <!--                                    consectetur-->
+                                <!--                                    adipisicing elit. Eum sint enim modi voluptatum possimus tenetur ipsam nam.</p>-->
+                            </div>
+                            <!--                            <div class="mbr-section-btn">-->
+                            <!--                                <a class="btn btn-white-outline display-4" href="#">-->
+                            <!--                                Read More-->
+                            <!--                                    <span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>-->
+                            <!--                                </a>-->
+                            <!--                            </div>-->
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</section>

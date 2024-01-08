@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {% include head.html %}
+</head>
+
+<body class='page {{layout.bodyClass}}'>
+{% include navigation.html %}
+{{content}}
+{% include footer.html %}
+{% include footer-js.html %}
+</body>
+</html>
