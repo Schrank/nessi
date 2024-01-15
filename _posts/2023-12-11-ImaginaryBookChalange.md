@@ -2,7 +2,7 @@
 title: "Imaginary Bookcover Chalange"
 date: 2018-11-18T12:33:46+10:00
 layout: image
-image: /assets/portfolio/800.jpg
+image: /assets/portfolio/MidnightElephantB.jpg
 thumbnail: /assets/portfolio/800-thumb.jpg
 alt: midnight elephant
 order: 1
