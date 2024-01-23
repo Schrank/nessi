@@ -1,14 +1,11 @@
 ---
 title: "Imaginary Bookcover Challenge"
-date: 2018-11-18T12:33:46+10:00
 layout: image
 image: /assets/portfolio/MidnightElephantB.png
 thumbnail: /assets/portfolio/MidnightElephantT.jpeg
 alt: midnight elephant
 order: 1
-poster:
-    name: "Vanessa Phillips"
-    image: /assets/images/face2.jpg
+
 ---
 
 „The Midnight Elephant“
