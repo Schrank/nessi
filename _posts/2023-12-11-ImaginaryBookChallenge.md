@@ -15,14 +15,12 @@ poster:
 
 Ich habe mir vorgestellt das es in diesem Buch um den Elephant im Mond geht, der bei jedem Neumond durch die Welt schländert.
 
-Skitze und erster Entwurf
+Skitze
 ![midnight elephant sketch](../assets/portfolio/MidnightElephantC.png)
+
+Finish
 ![midnight elephant](../assets/portfolio/MidnightElephantA.png)
 
 
-###Weitere Bilder in der Reihe
 
-![Mango Hill](../assets/portfolio/MangoHillB.png)
-
-"Ontop of Mango Hill"
 
