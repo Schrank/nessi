@@ -14,7 +14,7 @@ bodyClass: "page-image"
                     <div class="item-img">
                         <img src="{{ page.image | relative_url }}" alt="{{ page.alt }}" title="{{ page.title }}">
                     </div>
-
+                    {% comment %}
                     <div class="post_wrap text-primary">
                         <div class="card_post">
                             <div class="image_post">
@@ -34,6 +34,7 @@ bodyClass: "page-image"
                             </div>
                         </div>
                     </div>
+                    {% endcomment %}
                 </div>
                 <div class="content">
                     {{ content }}
