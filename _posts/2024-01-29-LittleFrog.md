@@ -17,6 +17,6 @@ Sie lebt in einem kleinen Haus an einem kleinen Teich und ihre Lieblingsfarbe is
 
 Endwurfs Prozess:
 
-
+![LittleFrog](../assets/portfolio/LittleFrogC.png)
 
 

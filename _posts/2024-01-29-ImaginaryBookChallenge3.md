@@ -20,7 +20,7 @@ So rettet er die Nixe und kann sie wieder nach Hause bringen.
 
 
 Skitze
-![ABucketC](../assets/portfolio/ABucketA.png)
+![ABucketC](../assets/portfolio/ABucketC.png)
 
 Finish
 ![ABucketA](../assets/portfolio/ABucketA.png)
