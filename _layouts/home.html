@@ -8,33 +8,36 @@ bodyClass: "page-home"
         <div class="main_section_title">
             <div class="empty_content"></div>
             <div class="main_title">
-                <h1 class="mbr-section-title mbr-fonts-style mb-0 display-5"><strong> Illustratorin & Autorin
-                    mit 
-                    Leidenschaft und Spaß
-                    
-                    
-                </strong></h1>
+                <h1 class="mbr-section-title mbr-fonts-style mb-0 display-5">
+                    <strong> Illustratorin &amp; Autorin mit Leidenschaft und Spaß</strong>
+                </h1>
             </div>
         </div>
         <div class="block-content">
             <div class="text-wrapper text-white">
-                <h4 class="card_subtitle mbr-medium mb-2 mbr-fonts-style display-4">Article</h4>
-                <h3 class="card_title mbr-fonts-style mb-3 display-5"><strong><a href="#" class="text-primary">Hi,
-                </a></strong></h3>
-                <p class="mbr-text mbr-fonts-style display-4">Ich bin Vanessa Phillips, eine bunte und aufgeweckte Künstlerin. 
-                    Seit ich klein bin male ich Bilder, zeichne Charaktere und entwerfe Geschichten mit großer Begeisterung.
-                    Ich bin zweisprachig aufgewachsen, lebe in Deutschland und verfasse viele meiner Texte in Englisch. Meine liebe für schlechte Wortwitze kommt definitiv von meiner Britischen Seite 😉
-                    Ich liebe es zu Illustrieren und zu schreiben.
-                    Wissen spielerisch zu vermitteln und Konzepte zu verbildlichen ist eine meiner Leidenschaften. Dies gelingt mir besonders gut durch meinen Hintergrund als Elektrotechnik-Ingenieurin und Ausbilderin. Für fantastische Themen bin ich allerdings genauso zu begeistern.
-                    Denn in meiner Freizeit beschäftige ich mich viel mit Rollenspielen im Fantasy bereich (LARP und Pen&Paper). 
-                    
+                <h3 class="card_title mbr-fonts-style mb-3 display-5">
+                    <strong>Hi,</strong>
+                </h3>
+                <p class="mbr-text mbr-fonts-style display-4">Ich bin Vanessa Phillips, eine bunte und aufgeweckte
+                    Künstlerin.</p>
+                <p class="mbr-text mbr-fonts-style display-4">
+                    Seit ich klein bin male ich Bilder, zeichne Charaktere und entwerfe Geschichten mit großer
+                    Begeisterung.</p>
+                <p class="mbr-text mbr-fonts-style display-4">
+                    Ich bin zweisprachig aufgewachsen, lebe in Deutschland und verfasse viele meiner Texte in Englisch.
+                    Meine liebe für schlechte Wortwitze kommt definitiv von meiner Britischen Seite 😉
+                    Ich liebe es zu Illustrieren und zu schreiben.</p>
+                <p class="mbr-text mbr-fonts-style display-4">
+                    Wissen spielerisch zu vermitteln und Konzepte zu verbildlichen ist eine meiner Leidenschaften. Dies
+                    gelingt mir besonders gut durch meinen Hintergrund als Elektrotechnik-Ingenieurin und Ausbilderin.
+                    Für fantastische Themen bin ich allerdings genauso zu begeistern.</p>
+                <p class="mbr-text mbr-fonts-style display-4">
+                    Denn in meiner Freizeit beschäftige ich mich viel mit Rollenspielen im Fantasy bereich (LARP und
+                    Pen&amp;Paper).</p>
+                <p class="mbr-text mbr-fonts-style display-4">
                     Für Aufträge und Anfragen bin ich unter anfrage@phillips-art.de zu erreichen. Schreibt mir gerne 💚
-                    
-                    
                 </p>
-                <div class="mbr-section-btn">
-
-                    Read More
+                <div class="mbr-section-btn"> Read More
                     <span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>
                     </a>
                 </div>
@@ -57,7 +60,6 @@ bodyClass: "page-home"
         </div>
         <div class="row">
             {% for image in site.posts %}
-
             <div class="item features-image сol-12 col-lg-6">
                 <div class="item-wrapper">
                     <div class="item-img">
@@ -65,6 +67,7 @@ bodyClass: "page-home"
                             <img src="{{ image.image | relative_url}}" alt="{{ image.alt }}">
                         </a>
                     </div>
+                    {% comment %}
                     <div class="card-content text-white">
                         <div class="post_wrap">
                             <div class="card_post">
@@ -73,9 +76,6 @@ bodyClass: "page-home"
                                 </div>
                                 <div class="author_post">
                                     <a href="{{ image.url }}">
-                                        <p class="author mb-0 mbr-fonts-style display-4">Posted by
-                                            <strong>{{ image.poster.name }}</strong>
-                                        </p>
                                         <p class="date mb-0 mbr-fonts-style display-4">
                                             {{ image.date | date_to_long_string}}
                                         </p>
@@ -83,7 +83,7 @@ bodyClass: "page-home"
                                 </div>
                             </div>
                         </div>
-
+                        {% endcomment %}
                         <div class="item-content">
                             <div>
                                 <h5 class="item-title mbr-fonts-style display-7">
@@ -92,22 +92,11 @@ bodyClass: "page-home"
                                 <a href="{{ image.url }}">
                                     {{ image.excerpt }}
                                 </a>
-                                <!--                                <p class="mbr-text mbr-fonts-style display-4">Lorem ipsum dolor sit amet,-->
-                                <!--                                    consectetur-->
-                                <!--                                    adipisicing elit. Eum sint enim modi voluptatum possimus tenetur ipsam nam.</p>-->
                             </div>
-                            <!--                            <div class="mbr-section-btn">-->
-                            <!--                                <a class="btn btn-white-outline display-4" href="#">-->
-                            <!--                                Read More-->
-                            <!--                                    <span class="mobi-mbri mobi-mbri-right mbr-iconfont mbr-iconfont-btn"></span>-->
-                            <!--                                </a>-->
-                            <!--                            </div>-->
                         </div>
                     </div>
-
                 </div>
             </div>
-            </a>
             {% endfor %}
         </div>
     </div>
