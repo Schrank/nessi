@@ -1,8 +1,8 @@
 ---
-title: "Imaginary Bookcover Challenge"
+title: "Little Frog"
 layout: image
-image: /assets/portfolio/ABucketB.png
-thumbnail: /assets/portfolio/ABucketB.png
+image: /assets/portfolio/little-frog.jpg
+thumbnail: /assets/portfolio/little-frog.jpg
 alt: Little Frog
 order: 1
 
@@ -15,11 +15,7 @@ Sie ist der Hauptcharakter meiner Kurzgeschichten, die ich über meinen [Newslet
 Sie lebt in einem kleinen Haus an einem kleinen Teich und ihre Lieblingsfarbe ist Gelb. 
 
 
-Skitze
-
-
-Finish
-![ABucketA](../assets/portfolio/MangoHillA.png)
+Endwurfs Prozess:
 
 
 
