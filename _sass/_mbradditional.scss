@@ -1742,7 +1742,6 @@ section.lazy-placeholder {
     width: 60%;
     background: $second-base-color;
     padding: 90px 1rem;
-    height: 70vh;
 
     &:hover {
       .card_title {
@@ -1867,20 +1866,6 @@ section.lazy-placeholder {
       object-fit: cover;
       border-radius: 4px;
       will-change: transform;
-    }
-
-    &:before {
-      content: "";
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      opacity: .45;
-      background-color: #232323;
-      z-index: 5;
-      pointer-events: none;
-      border-radius: 4px;
     }
   }
 
