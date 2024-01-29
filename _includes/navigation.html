@@ -30,7 +30,6 @@
                         </a>
                         {% endif %}
                     </div>
-                    {% comment %}
                     <button class="navbar-toggler" type="button" data-toggle="collapse"
                             data-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup"
                             aria-expanded="false" aria-label="Toggle navigation">
@@ -41,18 +40,19 @@
                             <span></span>
                         </div>
                     </button>
-                    {% endcomment %}
                 </div>
 
-                {% comment %}
+
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
                         <li class="nav-item">
-                            <a class="nav-link link text-primary display-4" href="/">Main</a>
+                            <a class="nav-link link text-primary display-4" href="/">Homepage</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link link text-primary display-4" href="#">Latest News</a>
+                            <a class="nav-link link text-primary display-4" href="/newsletter">Newsletter</a>
                         </li>
+
+                        {% comment %}
                         <li class="nav-item">
                             <a class="nav-link link text-primary display-4" href="#">Interesting </a>
                         </li>
@@ -62,8 +62,9 @@
                         <li class="nav-item">
                             <a class="nav-link link text-primary display-4" href="#">Contacts</a>
                         </li>
+                        {% endcomment %}
                     </ul>
-                    {% endcomment %}
+
                 </div>
             </div>
         </div>

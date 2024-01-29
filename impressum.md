@@ -1,6 +1,6 @@
 ---
 title: V.Phillips.art
-layout: imprint
+layout: content
 description: Das eCommerce Sorgenetelefon ist die Anlaufstelle, bei allen Fragen und Nöten rund um den Onlineshop
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true

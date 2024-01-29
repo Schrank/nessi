@@ -15,7 +15,7 @@ permalink: /:title:output_ext
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: null
 github_username: null
-insta_username: phillips-art
+insta_username: v.phillips.art
 facebook_username: null
 
 copyright: '&copy; 2023<script>new Date().getFullYear()>2010&&document.write("-"+new Date().getFullYear());</script> Vanessa Phillips'
