@@ -1,11 +1,6 @@
 ---
-title: V.Phillips.art
+title: V.Phillips.art - Newsletter
 layout: content
-description: Das eCommerce Sorgenetelefon ist die Anlaufstelle, bei allen Fragen und Nöten rund um den Onlineshop
-intro_image: "images/illustrations/pointing.svg"
-intro_image_absolute: true
-intro_image_hide_on_mobile: true
-show_call_box: true
 ---
 
 # Newsletter/ Email Liste
@@ -29,8 +24,6 @@ Ich werde die Geschichten auch als Hörbücher einsprechen, die könnt ihr auf m
 Die Geschichten werde ich vorerst nur auf englisch schreiben.  
 Damit ihr auch wisst auf was ihr euch einlasst ist hier der Anfang des ersten Kapitels. Den Rest kriegt ihr in der
 ersten Email 😉
-
-
 
 ## Good and Peaceful Night Stories for Anxious People
 
