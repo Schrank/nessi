@@ -14,7 +14,7 @@ Oben auf dem Mango Berg
 Hier dachte ich an eine Gruppe Ameisen die einen Mango Hain pflegen der auf einem Mangoförmigen Hügel wächst.
 
 Skitze
-
+![mango hill](../assets/portfolio/MangoHillC.png)
 
 Finish
 ![mango hill](../assets/portfolio/MangoHillA.png)

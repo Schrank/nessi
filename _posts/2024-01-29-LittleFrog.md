@@ -1,8 +1,8 @@
 ---
 title: "Little Frog"
 layout: image
-image: /assets/images/little-frog.jpg
-thumbnail: /assets/images/little-frog.jpg
+image: /assets/portfolio/LittleFrogB.png
+thumbnail: /assets/portfolio/LittleFrogB.png
 alt: Little Frog
 order: 1
 
