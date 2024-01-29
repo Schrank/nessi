@@ -10,6 +10,7 @@ order: 1
 
 „The Midnight Elephant“
 
+Der Mitternachts Elefant
 Ich habe mir vorgestellt das es in diesem Buch um den Elephant im Mond geht, der bei jedem Neumond durch die Welt schländert.
 
 Skitze
