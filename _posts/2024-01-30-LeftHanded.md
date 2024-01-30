@@ -11,7 +11,6 @@ order: 1
 
 Aufgrund einer Handgelenksentzündung konnte ich eine Weile nicht mit der rechten Hand zeichnen. Stattdessen habe ich einige Bilder mit links gezeichnet.
 
-![Blätter](../assets/portfolio/BlaeterB.png)
 
 
 
