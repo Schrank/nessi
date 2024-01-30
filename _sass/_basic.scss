@@ -1,0 +1,15 @@
+.language-switch {
+  font-size: 100px;
+  list-style-type: none;
+  padding-left: 0;
+
+  li {
+    margin-right: 3rem;
+    display: inline-block;
+
+    button {
+      border: none;
+      background-color: transparent;
+    }
+  }
+}
