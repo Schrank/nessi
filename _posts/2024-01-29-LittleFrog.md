@@ -9,7 +9,7 @@ order: 1
 ---
 
 
-## Kleiner Frosch oder Little Frog
+## Kleiner Frosch
 
 Sie ist der Hauptcharakter meiner Kurzgeschichten, die ich über meinen [Newsletter](/newsletter) verschicke. 
 Sie lebt in einem kleinen Haus an einem kleinen Teich und ihre Lieblingsfarbe ist Gelb. 
