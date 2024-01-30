@@ -64,4 +64,14 @@ Gerrid waved the letter excitedly. "My aunt is visiting next week."
 "Oh wonderful, I like her." Little Frog clapped her hands in delight.  
 "Yes, I thought we could come to visit you again."  
 "Most certainly. I will make some of your aunt's favourite jam, shall I?"
+
+Gerrid hopped excitedly. “That would be great! But now I must stride on and get everything ready.”
+
+Little Frog waved him off.
+
+
+… to be continued in the newsletter 💚
+
+
+
 ^
