@@ -8,9 +8,12 @@ order: 1
 
 ---
 
-„A Bucket Full of Tears“
+## „A Bucket Full of Tears“
 
-Ein Eimer voller Tränen
+### Ein Eimer voller Tränen
+
+Dieses Bild entstand durch die ‘Imaginary Bookcover Challenge' auf Instagram. Hier wurden verschiedene fiktive Buchtitel vorgegeben, zu denen ein Buchcover entworfen werden sollte.
+Viele Illustratoren haben auch eine Idee beigesteuert, um was es in dem Buch gehen könnte.
 
 In dieser Geschichte, fand ich, sollten Trauer und Glück Hand in Hand gehen. 
 Ein kleiner Junge trifft eine noch kleinere Nixe und freundet sich mit ihr an. In ihrem Gespräch erzählt er von all den tollen Sachen, die es an Land gibt, bis die Nixe es darum bittet, sie ihr zu zeigen.

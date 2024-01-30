@@ -8,9 +8,13 @@ order: 1
 
 ---
 
-„The Midnight Elephant“
+## „The Midnight Elephant“
 
-Der Mitternachts Elefant
+### Der Mitternachts Elefant
+
+Dieses Bild entstand durch die ‘Imaginary Bookcover Challenge' auf Instagram. Hier wurden verschiedene fiktive Buchtitel vorgegeben, zu denen ein Buchcover entworfen werden sollte.
+Viele Illustratoren haben auch eine Idee beigesteuert, um was es in dem Buch gehen könnte.
+
 Ich habe mir vorgestellt das es in diesem Buch um den Elephant im Mond geht, der bei jedem Neumond durch die Welt schländert.
 
 Skitze
