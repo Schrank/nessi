@@ -1,17 +1,11 @@
 .page-home {
   .item-content {
     a h2 {
-      text-shadow:3px 3px 2px #ffffff,
-      -3px 3px 2px #ffffff,
-      -3px -3px 0 #ffffff,
-      3px -3px 0 #ffffff;
+      -webkit-text-stroke: 3px rgb(255, 255, 255);
     }
 
     h5 {
-      text-shadow: 3px 3px 2px #000,
-      -3px 3px 2px #000,
-      -3px -3px 0 #000,
-      3px -3px 0 #000;
+      -webkit-text-stroke: 3px black;
     }
   }
 }
