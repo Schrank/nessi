@@ -8,7 +8,7 @@ layout: content
 
 
 
-<div align="center"> # Newsletter/ Email Liste </div>
+# <div align="center"> Newsletter/ Email Liste </div>
 
 Was hat es mit dieser E-Mail Liste auf sich?
 
@@ -30,13 +30,13 @@ Die Geschichten werde ich vorerst nur auf englisch schreiben.
 Damit ihr auch wisst auf was ihr euch einlasst ist hier der Anfang des ersten Kapitels. Den Rest kriegt ihr in der
 ersten Email 😉
 
-<div align="center"> ## Good and Peaceful Night Stories for Anxious People </div>
+ ## <div align="center"> Good and Peaceful Night Stories for Anxious People </div>
 
-<div align="center">  ### Book 1 - Little Frog </div>
+ ### <div align="center">  Book 1 - Little Frog </div>
 
-<div align="center">  Chapter 1 </div>
+#### <div align="center">  Chapter 1 </div>
 
-<div align="center">  Jam </div>
+#### <div align="center">  Jam </div>
 
 Today was a warm and sunny morning, so Little Frog put on her BIG sun hat. It had a wide brim and was very pointy. Well,
 in truth, it was quite crinkly because Little Frog hat sat on it too many times and now the point stuck out to the side.
