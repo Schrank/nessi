@@ -30,7 +30,7 @@ Die Geschichten werde ich vorerst nur auf englisch schreiben.
 Damit ihr auch wisst auf was ihr euch einlasst ist hier der Anfang des ersten Kapitels. Den Rest kriegt ihr in der
 ersten Email 😉
 
-## Good and Peaceful Night Stories for Anxious People
+<div align="center"> ## Good and Peaceful Night Stories for Anxious People </div>
 
 ### Book 1 - Little Frog
 
