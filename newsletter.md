@@ -32,11 +32,11 @@ ersten Email 😉
 
 <div align="center"> ## Good and Peaceful Night Stories for Anxious People </div>
 
-### Book 1 - Little Frog
+<div align="center">  ### Book 1 - Little Frog </div>
 
-#### Chapter 1
+<div align="center">  Chapter 1 </div>
 
-#### Jam
+<div align="center">  Jam </div>
 
 Today was a warm and sunny morning, so Little Frog put on her BIG sun hat. It had a wide brim and was very pointy. Well,
 in truth, it was quite crinkly because Little Frog hat sat on it too many times and now the point stuck out to the side.
