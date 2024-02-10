@@ -2,14 +2,16 @@
   .item-content {
     a h2 {
       -webkit-text-stroke: 1px rgb(255, 255, 255);
-      text-shadow: grey .15em .15em .15em;
+      text-shadow: 2px 1px 0px #3e504c;
     }
 
     h5 {
       -webkit-text-stroke: 1px rgb(2, 212, 184);
+      text-shadow: 2px 1px 0px #3e504c;
     }
     h1 {
       -webkit-text-stroke: 1px rgb(2, 212, 184);
+      text-shadow: 2px 1px 0px #3e504c;
     }
   }
 }

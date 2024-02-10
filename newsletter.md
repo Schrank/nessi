@@ -8,7 +8,7 @@ layout: content
 
 
 
-# Newsletter/ Email Liste
+<div align="center"> # Newsletter/ Email Liste </div>
 
 Was hat es mit dieser E-Mail Liste auf sich?
 
