@@ -1,19 +1,19 @@
 @charset "UTF-8";
 
 @font-face {
-  font-family: 'Socicon';
-  src:  url('../fonts/socicon.eot');
-  src:  url('../fonts/socicon.eot?#iefix') format('embedded-opentype'),
-    url('../fonts/socicon.woff2') format('woff2'),
-    url('../fonts/socicon.ttf') format('truetype'),
-    url('../fonts/socicon.woff') format('woff'),
-    url('../fonts/socicon.svg#socicon') format('svg');
+  font-family: 'iconfont';
+  src:  url('../fonts/iconfont.eot');
+  src:  url('../fonts/iconfont.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/iconfont.woff2') format('woff2'),
+    url('../fonts/iconfont.ttf') format('truetype'),
+    url('../fonts/iconfont.woff') format('woff'),
+    url('../fonts/iconfont.svg#iconfont') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 [data-icon]:before {
-  font-family: "socicon" !important;
+  font-family: "iconfont" !important;
   content: attr(data-icon);
   font-style: normal !important;
   font-weight: normal !important;
@@ -25,9 +25,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-[class^="socicon-"], [class*=" socicon-"] {
+[class^="iconfont-"], [class*=" iconfont-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'Socicon' !important;
+  font-family: 'iconfont' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -40,894 +40,894 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.socicon-eitaa:before {
+.iconfont-eitaa:before {
   content: "\e97c";
 }
-.socicon-soroush:before {
+.iconfont-soroush:before {
   content: "\e97d";
 }
-.socicon-bale:before {
+.iconfont-bale:before {
   content: "\e97e";
 }
-.socicon-zazzle:before {
+.iconfont-zazzle:before {
   content: "\e97b";
 }
-.socicon-society6:before {
+.iconfont-society6:before {
   content: "\e97a";
 }
-.socicon-redbubble:before {
+.iconfont-redbubble:before {
   content: "\e979";
 }
-.socicon-avvo:before {
+.iconfont-avvo:before {
   content: "\e978";
 }
-.socicon-stitcher:before {
+.iconfont-stitcher:before {
   content: "\e977";
 }
-.socicon-googlehangouts:before {
+.iconfont-googlehangouts:before {
   content: "\e974";
 }
-.socicon-dlive:before {
+.iconfont-dlive:before {
   content: "\e975";
 }
-.socicon-vsco:before {
+.iconfont-vsco:before {
   content: "\e976";
 }
-.socicon-flipboard:before {
+.iconfont-flipboard:before {
   content: "\e973";
 }
-.socicon-ubuntu:before {
+.iconfont-ubuntu:before {
   content: "\e958";
 }
-.socicon-artstation:before {
+.iconfont-artstation:before {
   content: "\e959";
 }
-.socicon-invision:before {
+.iconfont-invision:before {
   content: "\e95a";
 }
-.socicon-torial:before {
+.iconfont-torial:before {
   content: "\e95b";
 }
-.socicon-collectorz:before {
+.iconfont-collectorz:before {
   content: "\e95c";
 }
-.socicon-seenthis:before {
+.iconfont-seenthis:before {
   content: "\e95d";
 }
-.socicon-googleplaymusic:before {
+.iconfont-googleplaymusic:before {
   content: "\e95e";
 }
-.socicon-debian:before {
+.iconfont-debian:before {
   content: "\e95f";
 }
-.socicon-filmfreeway:before {
+.iconfont-filmfreeway:before {
   content: "\e960";
 }
-.socicon-gnome:before {
+.iconfont-gnome:before {
   content: "\e961";
 }
-.socicon-itchio:before {
+.iconfont-itchio:before {
   content: "\e962";
 }
-.socicon-jamendo:before {
+.iconfont-jamendo:before {
   content: "\e963";
 }
-.socicon-mix:before {
+.iconfont-mix:before {
   content: "\e964";
 }
-.socicon-sharepoint:before {
+.iconfont-sharepoint:before {
   content: "\e965";
 }
-.socicon-tinder:before {
+.iconfont-tinder:before {
   content: "\e966";
 }
-.socicon-windguru:before {
+.iconfont-windguru:before {
   content: "\e967";
 }
-.socicon-cdbaby:before {
+.iconfont-cdbaby:before {
   content: "\e968";
 }
-.socicon-elementaryos:before {
+.iconfont-elementaryos:before {
   content: "\e969";
 }
-.socicon-stage32:before {
+.iconfont-stage32:before {
   content: "\e96a";
 }
-.socicon-tiktok:before {
+.iconfont-tiktok:before {
   content: "\e96b";
 }
-.socicon-gitter:before {
+.iconfont-gitter:before {
   content: "\e96c";
 }
-.socicon-letterboxd:before {
+.iconfont-letterboxd:before {
   content: "\e96d";
 }
-.socicon-threema:before {
+.iconfont-threema:before {
   content: "\e96e";
 }
-.socicon-splice:before {
+.iconfont-splice:before {
   content: "\e96f";
 }
-.socicon-metapop:before {
+.iconfont-metapop:before {
   content: "\e970";
 }
-.socicon-naver:before {
+.iconfont-naver:before {
   content: "\e971";
 }
-.socicon-remote:before {
+.iconfont-remote:before {
   content: "\e972";
 }
-.socicon-internet:before {
+.iconfont-internet:before {
   content: "\e957";
 }
-.socicon-moddb:before {
+.iconfont-moddb:before {
   content: "\e94b";
 }
-.socicon-indiedb:before {
+.iconfont-indiedb:before {
   content: "\e94c";
 }
-.socicon-traxsource:before {
+.iconfont-traxsource:before {
   content: "\e94d";
 }
-.socicon-gamefor:before {
+.iconfont-gamefor:before {
   content: "\e94e";
 }
-.socicon-pixiv:before {
+.iconfont-pixiv:before {
   content: "\e94f";
 }
-.socicon-myanimelist:before {
+.iconfont-myanimelist:before {
   content: "\e950";
 }
-.socicon-blackberry:before {
+.iconfont-blackberry:before {
   content: "\e951";
 }
-.socicon-wickr:before {
+.iconfont-wickr:before {
   content: "\e952";
 }
-.socicon-spip:before {
+.iconfont-spip:before {
   content: "\e953";
 }
-.socicon-napster:before {
+.iconfont-napster:before {
   content: "\e954";
 }
-.socicon-beatport:before {
+.iconfont-beatport:before {
   content: "\e955";
 }
-.socicon-hackerone:before {
+.iconfont-hackerone:before {
   content: "\e956";
 }
-.socicon-hackernews:before {
+.iconfont-hackernews:before {
   content: "\e946";
 }
-.socicon-smashwords:before {
+.iconfont-smashwords:before {
   content: "\e947";
 }
-.socicon-kobo:before {
+.iconfont-kobo:before {
   content: "\e948";
 }
-.socicon-bookbub:before {
+.iconfont-bookbub:before {
   content: "\e949";
 }
-.socicon-mailru:before {
+.iconfont-mailru:before {
   content: "\e94a";
 }
-.socicon-gitlab:before {
+.iconfont-gitlab:before {
   content: "\e945";
 }
-.socicon-instructables:before {
+.iconfont-instructables:before {
   content: "\e944";
 }
-.socicon-portfolio:before {
+.iconfont-portfolio:before {
   content: "\e943";
 }
-.socicon-codered:before {
+.iconfont-codered:before {
   content: "\e940";
 }
-.socicon-origin:before {
+.iconfont-origin:before {
   content: "\e941";
 }
-.socicon-nextdoor:before {
+.iconfont-nextdoor:before {
   content: "\e942";
 }
-.socicon-udemy:before {
+.iconfont-udemy:before {
   content: "\e93f";
 }
-.socicon-livemaster:before {
+.iconfont-livemaster:before {
   content: "\e93e";
 }
-.socicon-crunchbase:before {
+.iconfont-crunchbase:before {
   content: "\e93b";
 }
-.socicon-homefy:before {
+.iconfont-homefy:before {
   content: "\e93c";
 }
-.socicon-calendly:before {
+.iconfont-calendly:before {
   content: "\e93d";
 }
-.socicon-realtor:before {
+.iconfont-realtor:before {
   content: "\e90f";
 }
-.socicon-tidal:before {
+.iconfont-tidal:before {
   content: "\e910";
 }
-.socicon-qobuz:before {
+.iconfont-qobuz:before {
   content: "\e911";
 }
-.socicon-natgeo:before {
+.iconfont-natgeo:before {
   content: "\e912";
 }
-.socicon-mastodon:before {
+.iconfont-mastodon:before {
   content: "\e913";
 }
-.socicon-unsplash:before {
+.iconfont-unsplash:before {
   content: "\e914";
 }
-.socicon-homeadvisor:before {
+.iconfont-homeadvisor:before {
   content: "\e915";
 }
-.socicon-angieslist:before {
+.iconfont-angieslist:before {
   content: "\e916";
 }
-.socicon-codepen:before {
+.iconfont-codepen:before {
   content: "\e917";
 }
-.socicon-slack:before {
+.iconfont-slack:before {
   content: "\e918";
 }
-.socicon-openaigym:before {
+.iconfont-openaigym:before {
   content: "\e919";
 }
-.socicon-logmein:before {
+.iconfont-logmein:before {
   content: "\e91a";
 }
-.socicon-fiverr:before {
+.iconfont-fiverr:before {
   content: "\e91b";
 }
-.socicon-gotomeeting:before {
+.iconfont-gotomeeting:before {
   content: "\e91c";
 }
-.socicon-aliexpress:before {
+.iconfont-aliexpress:before {
   content: "\e91d";
 }
-.socicon-guru:before {
+.iconfont-guru:before {
   content: "\e91e";
 }
-.socicon-appstore:before {
+.iconfont-appstore:before {
   content: "\e91f";
 }
-.socicon-homes:before {
+.iconfont-homes:before {
   content: "\e920";
 }
-.socicon-zoom:before {
+.iconfont-zoom:before {
   content: "\e921";
 }
-.socicon-alibaba:before {
+.iconfont-alibaba:before {
   content: "\e922";
 }
-.socicon-craigslist:before {
+.iconfont-craigslist:before {
   content: "\e923";
 }
-.socicon-wix:before {
+.iconfont-wix:before {
   content: "\e924";
 }
-.socicon-redfin:before {
+.iconfont-redfin:before {
   content: "\e925";
 }
-.socicon-googlecalendar:before {
+.iconfont-googlecalendar:before {
   content: "\e926";
 }
-.socicon-shopify:before {
+.iconfont-shopify:before {
   content: "\e927";
 }
-.socicon-freelancer:before {
+.iconfont-freelancer:before {
   content: "\e928";
 }
-.socicon-seedrs:before {
+.iconfont-seedrs:before {
   content: "\e929";
 }
-.socicon-bing:before {
+.iconfont-bing:before {
   content: "\e92a";
 }
-.socicon-doodle:before {
+.iconfont-doodle:before {
   content: "\e92b";
 }
-.socicon-bonanza:before {
+.iconfont-bonanza:before {
   content: "\e92c";
 }
-.socicon-squarespace:before {
+.iconfont-squarespace:before {
   content: "\e92d";
 }
-.socicon-toptal:before {
+.iconfont-toptal:before {
   content: "\e92e";
 }
-.socicon-gust:before {
+.iconfont-gust:before {
   content: "\e92f";
 }
-.socicon-ask:before {
+.iconfont-ask:before {
   content: "\e930";
 }
-.socicon-trulia:before {
+.iconfont-trulia:before {
   content: "\e931";
 }
-.socicon-loomly:before {
+.iconfont-loomly:before {
   content: "\e932";
 }
-.socicon-ghost:before {
+.iconfont-ghost:before {
   content: "\e933";
 }
-.socicon-upwork:before {
+.iconfont-upwork:before {
   content: "\e934";
 }
-.socicon-fundable:before {
+.iconfont-fundable:before {
   content: "\e935";
 }
-.socicon-booking:before {
+.iconfont-booking:before {
   content: "\e936";
 }
-.socicon-googlemaps:before {
+.iconfont-googlemaps:before {
   content: "\e937";
 }
-.socicon-zillow:before {
+.iconfont-zillow:before {
   content: "\e938";
 }
-.socicon-niconico:before {
+.iconfont-niconico:before {
   content: "\e939";
 }
-.socicon-toneden:before {
+.iconfont-toneden:before {
   content: "\e93a";
 }
-.socicon-augment:before {
+.iconfont-augment:before {
   content: "\e908";
 }
-.socicon-bitbucket:before {
+.iconfont-bitbucket:before {
   content: "\e909";
 }
-.socicon-fyuse:before {
+.iconfont-fyuse:before {
   content: "\e90a";
 }
-.socicon-yt-gaming:before {
+.iconfont-yt-gaming:before {
   content: "\e90b";
 }
-.socicon-sketchfab:before {
+.iconfont-sketchfab:before {
   content: "\e90c";
 }
-.socicon-mobcrush:before {
+.iconfont-mobcrush:before {
   content: "\e90d";
 }
-.socicon-microsoft:before {
+.iconfont-microsoft:before {
   content: "\e90e";
 }
-.socicon-pandora:before {
+.iconfont-pandora:before {
   content: "\e907";
 }
-.socicon-messenger:before {
+.iconfont-messenger:before {
   content: "\e906";
 }
-.socicon-gamewisp:before {
+.iconfont-gamewisp:before {
   content: "\e905";
 }
-.socicon-bloglovin:before {
+.iconfont-bloglovin:before {
   content: "\e904";
 }
-.socicon-tunein:before {
+.iconfont-tunein:before {
   content: "\e903";
 }
-.socicon-gamejolt:before {
+.iconfont-gamejolt:before {
   content: "\e901";
 }
-.socicon-trello:before {
+.iconfont-trello:before {
   content: "\e902";
 }
-.socicon-spreadshirt:before {
+.iconfont-spreadshirt:before {
   content: "\e900";
 }
-.socicon-500px:before {
+.iconfont-500px:before {
   content: "\e000";
 }
-.socicon-8tracks:before {
+.iconfont-8tracks:before {
   content: "\e001";
 }
-.socicon-airbnb:before {
+.iconfont-airbnb:before {
   content: "\e002";
 }
-.socicon-alliance:before {
+.iconfont-alliance:before {
   content: "\e003";
 }
-.socicon-amazon:before {
+.iconfont-amazon:before {
   content: "\e004";
 }
-.socicon-amplement:before {
+.iconfont-amplement:before {
   content: "\e005";
 }
-.socicon-android:before {
+.iconfont-android:before {
   content: "\e006";
 }
-.socicon-angellist:before {
+.iconfont-angellist:before {
   content: "\e007";
 }
-.socicon-apple:before {
+.iconfont-apple:before {
   content: "\e008";
 }
-.socicon-appnet:before {
+.iconfont-appnet:before {
   content: "\e009";
 }
-.socicon-baidu:before {
+.iconfont-baidu:before {
   content: "\e00a";
 }
-.socicon-bandcamp:before {
+.iconfont-bandcamp:before {
   content: "\e00b";
 }
-.socicon-battlenet:before {
+.iconfont-battlenet:before {
   content: "\e00c";
 }
-.socicon-mixer:before {
+.iconfont-mixer:before {
   content: "\e00d";
 }
-.socicon-bebee:before {
+.iconfont-bebee:before {
   content: "\e00e";
 }
-.socicon-bebo:before {
+.iconfont-bebo:before {
   content: "\e00f";
 }
-.socicon-behance:before {
+.iconfont-behance:before {
   content: "\e010";
 }
-.socicon-blizzard:before {
+.iconfont-blizzard:before {
   content: "\e011";
 }
-.socicon-blogger:before {
+.iconfont-blogger:before {
   content: "\e012";
 }
-.socicon-buffer:before {
+.iconfont-buffer:before {
   content: "\e013";
 }
-.socicon-chrome:before {
+.iconfont-chrome:before {
   content: "\e014";
 }
-.socicon-coderwall:before {
+.iconfont-coderwall:before {
   content: "\e015";
 }
-.socicon-curse:before {
+.iconfont-curse:before {
   content: "\e016";
 }
-.socicon-dailymotion:before {
+.iconfont-dailymotion:before {
   content: "\e017";
 }
-.socicon-deezer:before {
+.iconfont-deezer:before {
   content: "\e018";
 }
-.socicon-delicious:before {
+.iconfont-delicious:before {
   content: "\e019";
 }
-.socicon-deviantart:before {
+.iconfont-deviantart:before {
   content: "\e01a";
 }
-.socicon-diablo:before {
+.iconfont-diablo:before {
   content: "\e01b";
 }
-.socicon-digg:before {
+.iconfont-digg:before {
   content: "\e01c";
 }
-.socicon-discord:before {
+.iconfont-discord:before {
   content: "\e01d";
 }
-.socicon-disqus:before {
+.iconfont-disqus:before {
   content: "\e01e";
 }
-.socicon-douban:before {
+.iconfont-douban:before {
   content: "\e01f";
 }
-.socicon-draugiem:before {
+.iconfont-draugiem:before {
   content: "\e020";
 }
-.socicon-dribbble:before {
+.iconfont-dribbble:before {
   content: "\e021";
 }
-.socicon-drupal:before {
+.iconfont-drupal:before {
   content: "\e022";
 }
-.socicon-ebay:before {
+.iconfont-ebay:before {
   content: "\e023";
 }
-.socicon-ello:before {
+.iconfont-ello:before {
   content: "\e024";
 }
-.socicon-endomodo:before {
+.iconfont-endomodo:before {
   content: "\e025";
 }
-.socicon-envato:before {
+.iconfont-envato:before {
   content: "\e026";
 }
-.socicon-etsy:before {
+.iconfont-etsy:before {
   content: "\e027";
 }
-.socicon-facebook:before {
+.iconfont-facebook:before {
   content: "\e028";
 }
-.socicon-feedburner:before {
+.iconfont-feedburner:before {
   content: "\e029";
 }
-.socicon-filmweb:before {
+.iconfont-filmweb:before {
   content: "\e02a";
 }
-.socicon-firefox:before {
+.iconfont-firefox:before {
   content: "\e02b";
 }
-.socicon-flattr:before {
+.iconfont-flattr:before {
   content: "\e02c";
 }
-.socicon-flickr:before {
+.iconfont-flickr:before {
   content: "\e02d";
 }
-.socicon-formulr:before {
+.iconfont-formulr:before {
   content: "\e02e";
 }
-.socicon-forrst:before {
+.iconfont-forrst:before {
   content: "\e02f";
 }
-.socicon-foursquare:before {
+.iconfont-foursquare:before {
   content: "\e030";
 }
-.socicon-friendfeed:before {
+.iconfont-friendfeed:before {
   content: "\e031";
 }
-.socicon-github:before {
+.iconfont-github:before {
   content: "\e032";
 }
-.socicon-goodreads:before {
+.iconfont-goodreads:before {
   content: "\e033";
 }
-.socicon-google:before {
+.iconfont-google:before {
   content: "\e034";
 }
-.socicon-googlescholar:before {
+.iconfont-googlescholar:before {
   content: "\e035";
 }
-.socicon-googlegroups:before {
+.iconfont-googlegroups:before {
   content: "\e036";
 }
-.socicon-googlephotos:before {
+.iconfont-googlephotos:before {
   content: "\e037";
 }
-.socicon-googleplus:before {
+.iconfont-googleplus:before {
   content: "\e038";
 }
-.socicon-grooveshark:before {
+.iconfont-grooveshark:before {
   content: "\e039";
 }
-.socicon-hackerrank:before {
+.iconfont-hackerrank:before {
   content: "\e03a";
 }
-.socicon-hearthstone:before {
+.iconfont-hearthstone:before {
   content: "\e03b";
 }
-.socicon-hellocoton:before {
+.iconfont-hellocoton:before {
   content: "\e03c";
 }
-.socicon-heroes:before {
+.iconfont-heroes:before {
   content: "\e03d";
 }
-.socicon-smashcast:before {
+.iconfont-smashcast:before {
   content: "\e03e";
 }
-.socicon-horde:before {
+.iconfont-horde:before {
   content: "\e03f";
 }
-.socicon-houzz:before {
+.iconfont-houzz:before {
   content: "\e040";
 }
-.socicon-icq:before {
+.iconfont-icq:before {
   content: "\e041";
 }
-.socicon-identica:before {
+.iconfont-identica:before {
   content: "\e042";
 }
-.socicon-imdb:before {
+.iconfont-imdb:before {
   content: "\e043";
 }
-.socicon-instagram:before {
+.iconfont-instagram:before {
   content: "\e044";
 }
-.socicon-issuu:before {
+.iconfont-issuu:before {
   content: "\e045";
 }
-.socicon-istock:before {
+.iconfont-istock:before {
   content: "\e046";
 }
-.socicon-itunes:before {
+.iconfont-itunes:before {
   content: "\e047";
 }
-.socicon-keybase:before {
+.iconfont-keybase:before {
   content: "\e048";
 }
-.socicon-lanyrd:before {
+.iconfont-lanyrd:before {
   content: "\e049";
 }
-.socicon-lastfm:before {
+.iconfont-lastfm:before {
   content: "\e04a";
 }
-.socicon-line:before {
+.iconfont-line:before {
   content: "\e04b";
 }
-.socicon-linkedin:before {
+.iconfont-linkedin:before {
   content: "\e04c";
 }
-.socicon-livejournal:before {
+.iconfont-livejournal:before {
   content: "\e04d";
 }
-.socicon-lyft:before {
+.iconfont-lyft:before {
   content: "\e04e";
 }
-.socicon-macos:before {
+.iconfont-macos:before {
   content: "\e04f";
 }
-.socicon-mail:before {
+.iconfont-mail:before {
   content: "\e050";
 }
-.socicon-medium:before {
+.iconfont-medium:before {
   content: "\e051";
 }
-.socicon-meetup:before {
+.iconfont-meetup:before {
   content: "\e052";
 }
-.socicon-mixcloud:before {
+.iconfont-mixcloud:before {
   content: "\e053";
 }
-.socicon-modelmayhem:before {
+.iconfont-modelmayhem:before {
   content: "\e054";
 }
-.socicon-mumble:before {
+.iconfont-mumble:before {
   content: "\e055";
 }
-.socicon-myspace:before {
+.iconfont-myspace:before {
   content: "\e056";
 }
-.socicon-newsvine:before {
+.iconfont-newsvine:before {
   content: "\e057";
 }
-.socicon-nintendo:before {
+.iconfont-nintendo:before {
   content: "\e058";
 }
-.socicon-npm:before {
+.iconfont-npm:before {
   content: "\e059";
 }
-.socicon-odnoklassniki:before {
+.iconfont-odnoklassniki:before {
   content: "\e05a";
 }
-.socicon-openid:before {
+.iconfont-openid:before {
   content: "\e05b";
 }
-.socicon-opera:before {
+.iconfont-opera:before {
   content: "\e05c";
 }
-.socicon-outlook:before {
+.iconfont-outlook:before {
   content: "\e05d";
 }
-.socicon-overwatch:before {
+.iconfont-overwatch:before {
   content: "\e05e";
 }
-.socicon-patreon:before {
+.iconfont-patreon:before {
   content: "\e05f";
 }
-.socicon-paypal:before {
+.iconfont-paypal:before {
   content: "\e060";
 }
-.socicon-periscope:before {
+.iconfont-periscope:before {
   content: "\e061";
 }
-.socicon-persona:before {
+.iconfont-persona:before {
   content: "\e062";
 }
-.socicon-pinterest:before {
+.iconfont-pinterest:before {
   content: "\e063";
 }
-.socicon-play:before {
+.iconfont-play:before {
   content: "\e064";
 }
-.socicon-player:before {
+.iconfont-player:before {
   content: "\e065";
 }
-.socicon-playstation:before {
+.iconfont-playstation:before {
   content: "\e066";
 }
-.socicon-pocket:before {
+.iconfont-pocket:before {
   content: "\e067";
 }
-.socicon-qq:before {
+.iconfont-qq:before {
   content: "\e068";
 }
-.socicon-quora:before {
+.iconfont-quora:before {
   content: "\e069";
 }
-.socicon-raidcall:before {
+.iconfont-raidcall:before {
   content: "\e06a";
 }
-.socicon-ravelry:before {
+.iconfont-ravelry:before {
   content: "\e06b";
 }
-.socicon-reddit:before {
+.iconfont-reddit:before {
   content: "\e06c";
 }
-.socicon-renren:before {
+.iconfont-renren:before {
   content: "\e06d";
 }
-.socicon-researchgate:before {
+.iconfont-researchgate:before {
   content: "\e06e";
 }
-.socicon-residentadvisor:before {
+.iconfont-residentadvisor:before {
   content: "\e06f";
 }
-.socicon-reverbnation:before {
+.iconfont-reverbnation:before {
   content: "\e070";
 }
-.socicon-rss:before {
+.iconfont-rss:before {
   content: "\e071";
 }
-.socicon-sharethis:before {
+.iconfont-sharethis:before {
   content: "\e072";
 }
-.socicon-skype:before {
+.iconfont-skype:before {
   content: "\e073";
 }
-.socicon-slideshare:before {
+.iconfont-slideshare:before {
   content: "\e074";
 }
-.socicon-smugmug:before {
+.iconfont-smugmug:before {
   content: "\e075";
 }
-.socicon-snapchat:before {
+.iconfont-snapchat:before {
   content: "\e076";
 }
-.socicon-songkick:before {
+.iconfont-songkick:before {
   content: "\e077";
 }
-.socicon-soundcloud:before {
+.iconfont-soundcloud:before {
   content: "\e078";
 }
-.socicon-spotify:before {
+.iconfont-spotify:before {
   content: "\e079";
 }
-.socicon-stackexchange:before {
+.iconfont-stackexchange:before {
   content: "\e07a";
 }
-.socicon-stackoverflow:before {
+.iconfont-stackoverflow:before {
   content: "\e07b";
 }
-.socicon-starcraft:before {
+.iconfont-starcraft:before {
   content: "\e07c";
 }
-.socicon-stayfriends:before {
+.iconfont-stayfriends:before {
   content: "\e07d";
 }
-.socicon-steam:before {
+.iconfont-steam:before {
   content: "\e07e";
 }
-.socicon-storehouse:before {
+.iconfont-storehouse:before {
   content: "\e07f";
 }
-.socicon-strava:before {
+.iconfont-strava:before {
   content: "\e080";
 }
-.socicon-streamjar:before {
+.iconfont-streamjar:before {
   content: "\e081";
 }
-.socicon-stumbleupon:before {
+.iconfont-stumbleupon:before {
   content: "\e082";
 }
-.socicon-swarm:before {
+.iconfont-swarm:before {
   content: "\e083";
 }
-.socicon-teamspeak:before {
+.iconfont-teamspeak:before {
   content: "\e084";
 }
-.socicon-teamviewer:before {
+.iconfont-teamviewer:before {
   content: "\e085";
 }
-.socicon-technorati:before {
+.iconfont-technorati:before {
   content: "\e086";
 }
-.socicon-telegram:before {
+.iconfont-telegram:before {
   content: "\e087";
 }
-.socicon-tripadvisor:before {
+.iconfont-tripadvisor:before {
   content: "\e088";
 }
-.socicon-tripit:before {
+.iconfont-tripit:before {
   content: "\e089";
 }
-.socicon-triplej:before {
+.iconfont-triplej:before {
   content: "\e08a";
 }
-.socicon-tumblr:before {
+.iconfont-tumblr:before {
   content: "\e08b";
 }
-.socicon-twitch:before {
+.iconfont-twitch:before {
   content: "\e08c";
 }
-.socicon-twitter:before {
+.iconfont-twitter:before {
   content: "\e08d";
 }
-.socicon-uber:before {
+.iconfont-uber:before {
   content: "\e08e";
 }
-.socicon-ventrilo:before {
+.iconfont-ventrilo:before {
   content: "\e08f";
 }
-.socicon-viadeo:before {
+.iconfont-viadeo:before {
   content: "\e090";
 }
-.socicon-viber:before {
+.iconfont-viber:before {
   content: "\e091";
 }
-.socicon-viewbug:before {
+.iconfont-viewbug:before {
   content: "\e092";
 }
-.socicon-vimeo:before {
+.iconfont-vimeo:before {
   content: "\e093";
 }
-.socicon-vine:before {
+.iconfont-vine:before {
   content: "\e094";
 }
-.socicon-vkontakte:before {
+.iconfont-vkontakte:before {
   content: "\e095";
 }
-.socicon-warcraft:before {
+.iconfont-warcraft:before {
   content: "\e096";
 }
-.socicon-wechat:before {
+.iconfont-wechat:before {
   content: "\e097";
 }
-.socicon-weibo:before {
+.iconfont-weibo:before {
   content: "\e098";
 }
-.socicon-whatsapp:before {
+.iconfont-whatsapp:before {
   content: "\e099";
 }
-.socicon-wikipedia:before {
+.iconfont-wikipedia:before {
   content: "\e09a";
 }
-.socicon-windows:before {
+.iconfont-windows:before {
   content: "\e09b";
 }
-.socicon-wordpress:before {
+.iconfont-wordpress:before {
   content: "\e09c";
 }
-.socicon-wykop:before {
+.iconfont-wykop:before {
   content: "\e09d";
 }
-.socicon-xbox:before {
+.iconfont-xbox:before {
   content: "\e09e";
 }
-.socicon-xing:before {
+.iconfont-xing:before {
   content: "\e09f";
 }
-.socicon-yahoo:before {
+.iconfont-yahoo:before {
   content: "\e0a0";
 }
-.socicon-yammer:before {
+.iconfont-yammer:before {
   content: "\e0a1";
 }
-.socicon-yandex:before {
+.iconfont-yandex:before {
   content: "\e0a2";
 }
-.socicon-yelp:before {
+.iconfont-yelp:before {
   content: "\e0a3";
 }
-.socicon-younow:before {
+.iconfont-younow:before {
   content: "\e0a4";
 }
-.socicon-youtube:before {
+.iconfont-youtube:before {
   content: "\e0a5";
 }
-.socicon-zapier:before {
+.iconfont-zapier:before {
   content: "\e0a6";
 }
-.socicon-zerply:before {
+.iconfont-zerply:before {
   content: "\e0a7";
 }
-.socicon-zomato:before {
+.iconfont-zomato:before {
   content: "\e0a8";
 }
-.socicon-zynga:before {
+.iconfont-zynga:before {
   content: "\e0a9";
 }
