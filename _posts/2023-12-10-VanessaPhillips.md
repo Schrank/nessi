@@ -1,5 +1,5 @@
 ---
-title: Vanessa Phillips
+title: Die Künstlerin
 layout: image
 image: /assets/portfolio/MeD.png
 thumbnail: /assets/portfolio/MeD.png
@@ -7,17 +7,18 @@ alt: Die Künstlerin
 order: 1
 
 ---
-## Die Künstlerin
+## Vanessa Phillips
 
-Hier ein Steckbrief falls ihr etwas mehr über mich erfahren wollt.
+Das bin ich.
+
+
+
+#### Englich version:
 
 
 
 ![VP](../assets/portfolio/MeE.png)
 
 
-## The Artist
-
-A Charakter sheet to learn more about me.
 
 
