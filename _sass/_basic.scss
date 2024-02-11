@@ -23,22 +23,29 @@
 }
 
 p {
-
   line-height: 1.6;
 
   + h1, + h2, + h3, + h4, + h5, + h6 {
     margin-top: 4rem;
   }
 
+
+  // Alle Links sollen die Base Color (türkis) haben
   a {
     text-decoration: underline;
     font-weight: bold;
     color: $base-color;
-    
   }
 
   a:hover {
     text-decoration: none;
     color: lighten($base-color, 10%);
+  }
+}
+
+// Links innerhhalb von .text-white (z.B. türkise Box unten) sollen weiß sein
+.text-white {
+  a {
+    color: #ffffff;
   }
 }
