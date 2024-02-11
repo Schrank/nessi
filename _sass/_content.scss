@@ -4,7 +4,7 @@
     padding-bottom: 3rem;
 
 
-
+    //size and position Little Frog picture on newsletter page
     img {
       &.pull-right {
         float: right;
@@ -12,7 +12,8 @@
         margin: 0 1em;
       }
     }
-
+    
+    //centering headlines on newsletter page
     h1, h2, h3, h4, h5, h6 {
       margin-bottom: 2rem;
       text-align: center;

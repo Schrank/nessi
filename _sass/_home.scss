@@ -1,3 +1,5 @@
+//Outline und Schatten Schrift auf Home (Portfolio Bilder)
+
 .page-home {
   .item-content {
     a h2 {
@@ -5,17 +7,22 @@
       text-shadow: -3px 2px 5px #093636;
       text-shadow: 3px -2px 5px #093636;
     }
+    //untere Überschrift auf Portfolio Bildern ##
 
     h5 {
       -webkit-text-stroke: 1px #1aafaf;
       text-shadow: -3px 2px 5px #093636;
       text-shadow: 3px -2px 5px #093636;
     }
+    //obere Überschrift auf Portfolio Bildern
+
     h1 {
       -webkit-text-stroke: 1px #1aafaf;
       text-shadow: -3px 2px 5px #093636;
       text-shadow: 3px -2px 5px #093636;
     }
+    //untere Überschrift auf Portfolio Bildern #
+
   }
 
   .item-wrapper {
