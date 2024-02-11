@@ -9,8 +9,6 @@ order: 1
 ---
 ## Vanessa Phillips
 
-Das bin ich.
-
 
 
 #### Englich version:
