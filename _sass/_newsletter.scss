@@ -1,0 +1,8 @@
+.newsletter {
+  // Links innerhhalb von .text-white (z.B. türkise Box unten) sollen weiß sein
+  .text-white {
+    a {
+      color: #ffffff;
+    }
+  }
+}
