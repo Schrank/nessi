@@ -7,6 +7,7 @@
       text-shadow: -3px 2px 5px #093636;
       text-shadow: 3px -2px 5px #093636;
     }
+
     //untere Überschrift auf Portfolio Bildern ##
 
     h5 {
@@ -14,6 +15,7 @@
       text-shadow: -3px 2px 5px #093636;
       text-shadow: 3px -2px 5px #093636;
     }
+
     //obere Überschrift auf Portfolio Bildern
 
     h1 {
@@ -21,11 +23,19 @@
       text-shadow: -3px 2px 5px #093636;
       text-shadow: 3px -2px 5px #093636;
     }
+
     //untere Überschrift auf Portfolio Bildern #
 
   }
 
   .item-wrapper {
     aspect-ratio: 32 / 35;
+
+    // Überschriften auf den Bildern nach unten schieben
+    .card-content {
+      height: 100%;
+      display: flex;
+      align-items: flex-end;
+    }
   }
 }

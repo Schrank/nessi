@@ -908,9 +908,6 @@ pre {
   .mbr-container {
     padding-left: 1rem;
     padding-right: 1rem; } }
-.card-wrapper,
-.item-wrapper {
-  overflow: hidden; }
 
 .app-video-wrapper > img {
   opacity: 1; }
