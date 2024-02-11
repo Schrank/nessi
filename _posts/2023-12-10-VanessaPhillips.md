@@ -7,7 +7,10 @@ alt: Die Künstlerin
 order: 1
 
 ---
-# Die Künstlerin
+## Die Künstlerin
+
+Hier ein Steckbrief falls ihr etwas mehr über mich erfahren wollt.
+
 
 
 ![VP](../assets/portfolio/MeE.png)
@@ -15,6 +18,6 @@ order: 1
 
 ## The Artist
 
-
+A Charakter sheet to learn more about me.
 
 
