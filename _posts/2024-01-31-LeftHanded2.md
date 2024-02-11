@@ -7,7 +7,7 @@ alt: Blätter
 order: 1
 
 ---
-## Blätter
+## Fuchs
 
 Aufgrund einer Handgelenksentzündung konnte ich eine Weile nicht mit der rechten Hand zeichnen. Stattdessen habe ich einige Bilder mit links gezeichnet.
 
