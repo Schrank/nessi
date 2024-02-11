@@ -3,12 +3,7 @@ title: V.Phillips.art - Newsletter
 layout: content
 ---
 
-
-
-
-
-
-# <div align="center"> Newsletter/ Email Liste </div>
+#  Newsletter/ Email Liste 
 
 Was hat es mit dieser E-Mail Liste auf sich?
 
@@ -30,13 +25,13 @@ Die Geschichten werde ich vorerst nur auf englisch schreiben.
 Damit ihr auch wisst auf was ihr euch einlasst ist hier der Anfang des ersten Kapitels. Den Rest kriegt ihr in der
 ersten Email 😉
 
- ## <div align="center"> Good and Peaceful Night Stories for Anxious People </div>
+##  Good and Peaceful Night Stories for Anxious People 
 
- ### <div align="center">  Book 1 - Little Frog </div>
+### Book 1 - Little Frog 
 
-#### <div align="center">  Chapter 1 </div>
+#### Chapter 1 
 
-#### <div align="center">  Jam </div>
+#### Jam 
 
 Today was a warm and sunny morning, so Little Frog put on her BIG sun hat. It had a wide brim and was very pointy. Well,
 in truth, it was quite crinkly because Little Frog hat sat on it too many times and now the point stuck out to the side.
