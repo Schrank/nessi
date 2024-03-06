@@ -47,7 +47,7 @@ Frog's favourite colour.
 The cup in her hand was also yellow and full of tea. It was also very, very big. Little Frog didn't believe in small
 cups, you see. There just wasn't enough space for all her yummy tea in them.
 
-![image](/assets/images/LFHous.png)
+![image](/assets/images/LFHousPond.png)
 
 On the edge of Little Frog's lily pad was a big pale pink flower. It was the perfect size for Little Frog to sit in. She
 could even paddle her feet in the warm water. The best spot to spend the morning.
