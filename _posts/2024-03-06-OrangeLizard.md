@@ -2,7 +2,7 @@
 title: 
 layout: image
 image: /assets/portfolio/OrangeLizardB.png
-thumbnail: /assets/portfolio/OrangeLizardA.png
+thumbnail: /assets/portfolio/OrangeLizardA.jpeg
 alt: Blätter
 order: 1
 
