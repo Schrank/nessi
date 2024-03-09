@@ -3,11 +3,11 @@ title: V.Phillips.art - Newsletter
 layout: content
 ---
 
-#  Newsletter/ Email Liste 
+#  Newsletter/ E-Mail Liste 
 
 Was hat es mit dieser E-Mail Liste auf sich?
 
-Nun, ich habe festgestellt, dass es zu wenig Gute Nacht Geschichten gibt, die für sorgenvolle Menschen gedacht sind.
+Nun, ich habe festgestellt, dass es zu wenig GUTEnachtgeschichten gibt, die für sorgenvolle Menschen gedacht sind.
 Also habe ich angefangen eine Folge an Kurzgeschichten zu schreiben, in denen alles in Ordnung ist.
 
 ![image](/assets/images/little-frog.jpg){: class="pull-right"}
@@ -15,14 +15,14 @@ Also habe ich angefangen eine Folge an Kurzgeschichten zu schreiben, in denen al
 Es geht um Kleiner Frosch, wie sie ihr gemütliches Leben lebt und mit ihren Freunden Spaß hat. Die Geschichten sind ein
 sicherer Ort, etwas, das man lesen kann, um den Gedanken zu entkommen, frei von Problemen.
 
-Diese Geschichten teile ich über meine Email Liste, sowie ein bis zwei begleitende Bilder und ein paar Zeilen darüber,
+Diese Geschichten teile ich über meine E-Mail Liste, sowie ein bis zwei begleitende Bilder und ein paar Zeilen darüber,
 welche Projekte ich sonst so gerade in Angriff nehme. Ab und an werde ich auch Umfragen verschicken, bei denen ihr bei
 neuen Ideen und
 Charakteren mitwirken könnt, wenn ihr möchtet.  
 Ich werde die Geschichten auch als Hörbücher einsprechen, die könnt ihr auf meinem Youtube Kanal ... finden 💚.
 
-Die Geschichten werde ich vorerst nur auf englisch schreiben.  
-Damit ihr auch wisst auf was ihr euch einlasst ist hier der Anfang des ersten Kapitels. Den Rest kriegt ihr in der
+Die Geschichten werde ich vorerst nur auf Englisch schreiben.  
+Damit ihr auch wisst auf was ihr euch einlasst ist hier der Anfang des ersten Kapitels. Den Rest bekommt ihr in der
 ersten Email 😉
 
 ##  Good and Peaceful Night Stories
@@ -35,7 +35,7 @@ ersten Email 😉
 #### Jam 
 
 Today was a warm and sunny morning, so Little Frog put on her BIG sun hat. It had a wide brim and was very pointy. Well,
-in truth, it was quite crinkly because Little Frog hat sat on it too many times and now the point stuck out to the side.
+in truth, it was quite crinkly because Little Frog had sat on it too many times and now the point stuck out to the side.
 But Little Frog didn't mind. She thought it was just perfect for a sunny day.
 
 With her hat on, she stepped out of her cosy house and onto her front lily pad to enjoy the morning outside. You see,
