@@ -1,7 +1,7 @@
 ---
 title: V.Phillips.art
 layout: content
-description: Das eCommerce Sorgenetelefon ist die Anlaufstelle, bei allen Fragen und Nöten rund um den Onlineshop
+description: Illustratorin und Autorin Vanessa Phillips
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
@@ -19,3 +19,7 @@ Hochstr. 23<br/>
 </address>
 
 Email: <a href="mailto:info@phillips-art.de">info@phillips-art.de</a><br/>
+
+Rechtschreibfehler gefunden?
+Aufgrund meiner Legasthenie (Lese-Rechtschreib-Schwäche) ist es mir trotz aller Sorgfalt beim Verfassen der Texte nicht immer möglich, Rechtschreibfehler vollständig zu vermeiden.
+
