@@ -1,46 +1,27 @@
 //Outline und Schatten Schrift auf Home (Portfolio Bilder)
 
 .page-home {
-  .item-content {
-    a h2 {
-      -webkit-text-stroke: 1px #1aafaf;
-      text-shadow: -3px 2px 5px #093636;
-      text-shadow: 3px -2px 5px #093636;
+
+  //untere Überschrift auf Portfolio Bildern ##
+
+  h5.image-title {
+    padding: 1.2rem;
+    -webkit-text-stroke: 1px #1aafaf;
+    text-shadow: -3px 2px 5px #093636;
+    text-shadow: 3px -2px 5px #093636;
+
+    // Link innerhalb der Überschrift geht über die komplette Breite
+    a {
+      display: block;
     }
-
-    //untere Überschrift auf Portfolio Bildern ##
-
-    h5 {
-      -webkit-text-stroke: 1px #1aafaf;
-      text-shadow: -3px 2px 5px #093636;
-      text-shadow: 3px -2px 5px #093636;
-    }
-
-    //obere Überschrift auf Portfolio Bildern
-
-    h1 {
-      -webkit-text-stroke: 1px #1aafaf;
-      text-shadow: -3px 2px 5px #093636;
-      text-shadow: 3px -2px 5px #093636;
-    }
-
-    //untere Überschrift auf Portfolio Bildern #
-
   }
 
   .item-wrapper {
     aspect-ratio: 32 / 35;
-
-    // Überschriften auf den Bildern nach unten schieben
-    .card-content {
-      height: 100%;
-      display: flex;
-      align-items: flex-end;
-    }
   }
 
   //Farbe hompage kasten hinter Text über mich
   .intro {
-    background-color:  #eee;
+    background-color: #eee;
   }
 }

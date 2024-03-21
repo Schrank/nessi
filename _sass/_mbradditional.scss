@@ -1946,20 +1946,6 @@ section.lazy-placeholder {
     white-space: nowrap;
   }
 
-  .item-content {
-    padding: 40px;
-    min-height: 200px;
-    height: 400px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-
-    > div {
-      position: relative;
-      z-index: 5;
-    }
-  }
-
   .category_content {
     opacity: .8;
   }
@@ -2392,10 +2378,6 @@ section.lazy-placeholder {
     }
   }
   .post-section {
-    .item-content {
-      padding: 20px;
-    }
-
     .card_post {
       padding: 20px;
     }
