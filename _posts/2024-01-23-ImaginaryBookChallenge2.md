@@ -2,7 +2,7 @@
 title: "Imaginary Bookcover Challenge"
 layout: image
 image: /assets/portfolio/MangoHillB.png
-thumbnail: /assets/portfolio/MangoHillA.jpeg
+thumbnail: /assets/portfolio/MangoHillA.png
 alt: mango hill
 order: 1
 
@@ -22,7 +22,3 @@ Skitze
 
 Finish
 ![mango hill](../assets/portfolio/MangoHillA.png)
-
-
-
-
