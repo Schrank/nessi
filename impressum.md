@@ -20,6 +20,6 @@ Hochstr. 23<br/>
 
 Email: <a href="mailto:info@phillips-art.de">info@phillips-art.de</a><br/>
 
-Rechtschreibfehler gefunden?
+## Rechtschreibfehler gefunden? <br/>
 Aufgrund meiner Legasthenie (Lese-Rechtschreib-Schwäche) ist es mir trotz aller Sorgfalt beim Verfassen der Texte nicht immer möglich, Rechtschreibfehler vollständig zu vermeiden.
 
