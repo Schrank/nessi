@@ -20,7 +20,7 @@ Endwurfs Prozess:
 ![LittleFrog](../assets/portfolio/LFCharacter.png)
 
 Little Frog trinkt gerne Tee und sitzt in ihrer Seerose.
-![LittleFrog](../assets/portfolio/LFCharacter.png)
+![LittleFrog](../assets/portfolio/LFTea.png)
 
 Sie lebt in einem kleinen Haus am Rand des Teichs.
 ![LittleFrogHous](../assets/images/LFHousPond.png)
