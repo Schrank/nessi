@@ -2,7 +2,7 @@
 title: "Little Frog" - Charakter Design
 layout: image
 image: /assets/portfolio/LFC.png
-thumbnail: /assets/portfolio/LFCA.png
+thumbnail: /assets/portfolio/LFCA.jpeg
 alt: Little Frog
 order: 1
 

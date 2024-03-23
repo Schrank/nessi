@@ -2,7 +2,7 @@
 title: „The Midnight Elephant“
 layout: image
 image: /assets/portfolio/MidnightElephantB.png
-thumbnail: /assets/portfolio/MidnightElephantB.jpeg
+thumbnail: /assets/portfolio/MidnightElephantB.png
 alt: midnight elephant
 order: 1
 
