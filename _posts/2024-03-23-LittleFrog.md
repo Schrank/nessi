@@ -1,8 +1,8 @@
 ---
-title: "Little Frog" - Charakter Design
+title: Little Frog - Charakter Design
 layout: image
 image: /assets/portfolio/LFC.png
-thumbnail: /assets/portfolio/LFCA.jpeg
+thumbnail: /assets/portfolio/LFC.png
 alt: Little Frog
 order: 1
 
@@ -15,7 +15,7 @@ Sie ist der Hauptcharakter meiner Kurzgeschichten, die ich über meinen [Newslet
 Sie lebt in einem kleinen Haus an einem kleinen Teich und ihre Lieblingsfarbe ist Gelb. 
 
 
-Endwurfs Prozess:
+### Endwurfs Prozess:
 
 ![LittleFrog](../assets/portfolio/LFCharacter.png)
 
