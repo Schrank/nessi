@@ -1,5 +1,5 @@
 ---
-title: "Imaginary Bookcover Challenge"
+title: „A Bucket Full of Tears“
 layout: image
 image: /assets/portfolio/ABucketB.png
 thumbnail: /assets/portfolio/ABucketB.png

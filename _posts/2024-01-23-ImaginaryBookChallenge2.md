@@ -1,8 +1,8 @@
 ---
-title: "Imaginary Bookcover Challenge"
+title: „Ontop of Mango Hill“
 layout: image
 image: /assets/portfolio/MangoHillB.png
-thumbnail: /assets/portfolio/MangoHillA.png
+thumbnail: /assets/portfolio/MangoHillB.png
 alt: mango hill
 order: 1
 

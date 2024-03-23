@@ -1,8 +1,8 @@
 ---
-title: "Imaginary Bookcover Challenge"
+title: „The Midnight Elephant“
 layout: image
 image: /assets/portfolio/MidnightElephantB.png
-thumbnail: /assets/portfolio/MidnightElephantT.jpeg
+thumbnail: /assets/portfolio/MidnightElephantB.jpeg
 alt: midnight elephant
 order: 1
 
