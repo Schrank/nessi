@@ -21,6 +21,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           target_branch: 'gh-pages'
-          pre_build_commands: |
-            apt-get update
-            apt-get install -y imagemagick
+          pre_build_commands: apk --update add imagemagick
