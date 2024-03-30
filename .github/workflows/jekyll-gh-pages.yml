@@ -4,7 +4,7 @@ name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches: [ "main" ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -28,13 +28,19 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+      - name: Setup imagick
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick
+      - uses: actions/cache@v1
         with:
-          source: ./
-          destination: ./_site
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - uses: helaili/jekyll-action@2.0.3
+        env:
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
 
