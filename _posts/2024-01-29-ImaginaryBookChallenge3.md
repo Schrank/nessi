@@ -2,7 +2,7 @@
 title: „A Bucket Full of Tears“
 layout: image
 image: /assets/portfolio/ABucketB.png
-thumbnail: /assets/portfolio/ABucketB.png
+thumbnail: assets/portfolio/ABucketB.png
 alt: A Bucket full of Tears
 order: 1
 
@@ -27,7 +27,3 @@ Skitze
 
 Finish
 ![ABucketA](../assets/portfolio/ABucketA.png)
-
-
-
-

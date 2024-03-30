@@ -96,7 +96,7 @@ bodyClass: "page-home"
                 <div class="item-wrapper">
                     <div class="item-img">
                         <a href="{{ image.url }}">
-                            <img src="{{ image.thumbnail | relative_url}}" alt="{{ image.alt }}">
+                            <img src="{% thumbnail_img image.thumbnail 500 %}" alt="{{ image.alt }}">
                         </a>
                     </div>
                 </div>

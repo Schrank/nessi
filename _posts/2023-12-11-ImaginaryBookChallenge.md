@@ -2,7 +2,7 @@
 title: „The Midnight Elephant“
 layout: image
 image: /assets/portfolio/MidnightElephantB.png
-thumbnail: /assets/portfolio/MidnightElephantB.png
+thumbnail: assets/portfolio/MidnightElephantB.png
 alt: midnight elephant
 order: 1
 
@@ -22,7 +22,3 @@ Skitze
 
 Finish
 ![midnight elephant](../assets/portfolio/MidnightElephantA.png)
-
-
-
-

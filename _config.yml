@@ -27,7 +27,7 @@ logo:
 
 plugins:
   - jekyll-environment-variables
-
+  - jekyll-thumbnail-img
 sass:
   style: compressed
 

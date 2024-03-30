@@ -35,6 +35,9 @@ GEM
       jekyll (>= 3.0, < 5.x)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
+    jekyll-thumbnail-img (0.1.0)
+      jekyll
+      mini_magick
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -46,6 +49,7 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
+    mini_magick (4.12.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.0.4)
@@ -70,6 +74,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.2)
   jekyll-environment-variables
+  jekyll-thumbnail-img
+  mini_magick
   webrick (~> 1.7)
 
 BUNDLED WITH

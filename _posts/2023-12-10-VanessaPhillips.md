@@ -2,7 +2,7 @@
 title: Die Künstlerin
 layout: image
 image: /assets/portfolio/MeD.png
-thumbnail: /assets/portfolio/MeD.png
+thumbnail: assets/portfolio/MeD.png
 alt: Die Künstlerin
 order: 1
 
@@ -16,7 +16,3 @@ order: 1
 
 
 ![VP](../assets/portfolio/MeE.png)
-
-
-
-
