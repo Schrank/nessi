@@ -1,6 +1,21 @@
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   p {
     font-size: 1.2rem;
+  }
+
+  .header {
+    padding-top: 1rem;
+
+    .main_title {
+      background-color: #8de5e5;
+      padding: 30px 1rem 0;
+    }
+  }
+}
+
+.icons-wrapper {
+  .iconfont {
+    font-size: 26px;
   }
 }
 

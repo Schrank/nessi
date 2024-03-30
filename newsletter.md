@@ -48,7 +48,7 @@ The rest will be in the first Email 😉</p>
 <h2 id="good-and-peaceful-night-stories">Good and Peaceful Night Stories</h2>
 <h2 id="for-anxious-people">for Anxious People</h2>
 
-<h3 id="book-1---little-frog">Book 1 - Little Frog</h3>
+<h3 class="newsletter-example" id="book-1---little-frog">Book 1 - Little Frog</h3>
 
 <h4 id="chapter-1">Chapter 1</h4>
 
