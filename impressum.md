@@ -20,6 +20,8 @@ Hochstr. 23<br/>
 
 Email: <a href="mailto:info@phillips-art.de">info@phillips-art.de</a><br/>
 
-## Rechtschreibfehler gefunden? <br/>
+Steuernummer: 22/129/36464 <br/> 
+
+#### Rechtschreibfehler gefunden? <br/>
 Aufgrund meiner Legasthenie (Lese-Rechtschreib-Schwäche) ist es mir trotz aller Sorgfalt beim Verfassen der Texte nicht immer möglich, Rechtschreibfehler vollständig zu vermeiden.
 
