@@ -1,8 +1,8 @@
 ---
 title: V.Phillips.art
 layout: content
-description: Vanessa Phillips ist eine Illustratorin und Autoren aus Koblenz. Ihr Schwerpunkt sind farbenfrohe Illustrationen, die sowohl fantastische als auch wissenschaftliche Geschichten erzählen. 
-Illustration - Charakter Design - Geschichten - Kinderbücher 
+description: "Vanessa Phillips ist eine Illustratorin und Autoren aus Koblenz. Ihr Schwerpunkt sind farbenfrohe Illustrationen, die sowohl fantastische als auch wissenschaftliche Geschichten erzählen. 
+Illustration - Charakter Design - Geschichten - Kinderbücher" 
 
 
 intro_image: "images/illustrations/pointing.svg"
@@ -27,4 +27,3 @@ Steuernummer: 22/129/36464 <br/>
 
 ##### Rechtschreibfehler gefunden? <br/>
 Aufgrund meiner Legasthenie (Lese-Rechtschreib-Schwäche) ist es mir trotz aller Sorgfalt beim Verfassen der Texte nicht immer möglich, Rechtschreibfehler vollständig zu vermeiden.
-
