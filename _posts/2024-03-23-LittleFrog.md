@@ -1,8 +1,8 @@
 ---
-title: Little Frog - Charakter Design
+title: Little Frog - Bilderbuch Design
 layout: image
-image: /assets/portfolio/LFC.png
-thumbnail: assets/portfolio/LFC.png
+image: /assets/portfolio/LF1.png
+thumbnail: assets/portfolio/LF1.png
 alt: Little Frog
 order: 1
 
@@ -27,3 +27,6 @@ Sie lebt in einem kleinen Haus am Rand des Teichs.
 
 Little Frog liebt den Regen.
 ![LittleFrog](../assets/portfolio/LittleFrogRainB.png)
+
+Buch Cover:
+![Little Frog](../assets/portfolio/LFC.png)
