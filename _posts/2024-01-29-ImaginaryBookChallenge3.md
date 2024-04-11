@@ -1,5 +1,5 @@
 ---
-title: „A Bucket Full of Tears“
+title: „A Bucket Full of Tears“ - Book Cover Design
 layout: image
 image: /assets/portfolio/ABucketB.png
 thumbnail: assets/portfolio/ABucketB.png

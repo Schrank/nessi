@@ -1,5 +1,5 @@
 ---
-title: „The Midnight Elephant“
+title: „The Midnight Elephant“ - Book Cover Design
 layout: image
 image: /assets/portfolio/MidnightElephantB.png
 thumbnail: assets/portfolio/MidnightElephantB.png

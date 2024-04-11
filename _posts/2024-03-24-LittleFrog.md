@@ -25,8 +25,6 @@ Little Frog trinkt gerne Tee und sitzt in ihrer Seerose.
 Sie lebt in einem kleinen Haus am Rand des Teichs.
 ![LittleFrogHous](../assets/images/LFHousPond.png)
 
-Little Frog liebt den Regen.
-![LittleFrog](../assets/portfolio/LittleFrogRainB.png)
 
 Buch Cover:
 ![Little Frog](../assets/portfolio/LFC.png)

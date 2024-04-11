@@ -1,5 +1,5 @@
 ---
-title: „Ontop of Mango Hill“
+title: „Ontop of Mango Hill“ - Book Cover Design
 layout: image
 image: /assets/portfolio/MangoHillB.png
 thumbnail: assets/portfolio/MangoHillB.png
