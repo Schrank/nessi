@@ -11,7 +11,7 @@ layout: content
 <p>Nun, ich habe festgestellt, dass es zu wenig GUTEnachtgeschichten gibt, die für sorgenvolle Menschen gedacht sind.
 Also habe ich angefangen eine Folge an Kurzgeschichten zu schreiben, in denen alles in Ordnung ist.</p>
 
-<p><img src="/assets/images/little-frog.jpg" alt="image" class="pull-right"></p>
+<p><img src="/assets/images/little-frog.png" alt="image" class="pull-right"></p>
 
 <p>Es geht um Kleiner Frosch, wie sie ihr gemütliches Leben lebt und mit ihren Freunden Spaß hat. Die Geschichten sind ein
 sicherer Ort, etwas, das man lesen kann, um den Gedanken zu entkommen, frei von Problemen.</p>
@@ -33,7 +33,7 @@ ersten Email 😉</p>
 <p>So what’s the deal with this email list?</p>
 <p>Well, I noticed that there are too few goodnight stories suited for people that feel anxious. So I started to write a series of short stories in which nothing bad ever happens.</p>
 
-<p><img src="/assets/images/little-frog.jpg" alt="image" class="pull-right"></p>
+<p><img src="/assets/images/little-frog.png" alt="image" class="pull-right"></p>
 
 <p>Little Frog is the main character, who has a cosy life and loads of fun with her friends. The stories are a safe place, something you can read to calm down, free of problems.</p>
 
