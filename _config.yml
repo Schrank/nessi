@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is Vanessa Phills website.
 baseurl: "/" # the subpath of your site, e.g. /blog
 permalink: /:title:output_ext
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.phillips-art.de/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: null
 github_username: null
 insta_username: v.phillips.art
