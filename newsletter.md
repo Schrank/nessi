@@ -42,13 +42,13 @@ I will also record the stories as audiobooks, which you can find on my youtube c
 
 <p>For now the stories will only be available in English.
 You can read the start of chapter one below, so you know what to expect.
-The rest will be in the first Email 😉</p>
+The rest will be in the first Email 😉
+</p>
 </div>
 
 <p>
 </p>
 <p><img src="/assets/portfolio/GPNS.jpeg" alt="image"></p>
-
 
 <h4 id="chapter-1">Chapter 1</h4>
 
