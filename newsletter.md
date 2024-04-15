@@ -47,9 +47,8 @@ The rest will be in the first Email 😉</p>
 
 <p>
 </p>
-<p><img scr="/assets/portfolio/GPNS.jpeg" alt="image"></p>
+<p><img src="/assets/portfolio/GPNS.jpeg" alt="image"></p>
 
-<h3 class="newsletter-example" id="book-1---little-frog">Book 1 - Little Frog</h3>
 
 <h4 id="chapter-1">Chapter 1</h4>
 
