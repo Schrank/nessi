@@ -15,6 +15,7 @@ Sie ist der Hauptcharakter meiner Kurzgeschichten, die ich über meinen [Newslet
 Sie lebt in einem kleinen Haus an einem kleinen Teich und ihre Lieblingsfarbe ist Gelb. 
 
 
+
 ### Endwurfs Prozess:
 
 ![LittleFrog](../assets/portfolio/LFCharacter.png)
@@ -29,4 +30,4 @@ Sie verbringt gerne Zeit mit ihren Freunden.
 ![Little FrogDoppel](../assets/portfolio/LFDoppel.png)
 
 Buch Cover:
-![Little Frog](../assets/portfolio/LFC.png)
+![Little Frog](../assets/portfolio/GPNS.jpeg)
