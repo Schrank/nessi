@@ -45,8 +45,9 @@ You can read the start of chapter one below, so you know what to expect.
 The rest will be in the first Email 😉</p>
 </div>
 
-<h2 id="good-and-peaceful-night-stories">Good and Peaceful Night Stories</h2>
-<h2 id="for-anxious-people">for Anxious People</h2>
+<p>
+</p>
+<p><img scr="/assets/portfolio/GPNS.jpeg" alt="image"></p>
 
 <h3 class="newsletter-example" id="book-1---little-frog">Book 1 - Little Frog</h3>
 
