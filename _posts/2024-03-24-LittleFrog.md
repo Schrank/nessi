@@ -20,6 +20,8 @@ Sie lebt in einem kleinen Haus an einem kleinen Teich und ihre Lieblingsfarbe is
 
 ![LittleFrog](../assets/portfolio/LFCharacter.png)
 
+![Little Frog Skitzen](../assets/portfolio/LFSkitzen.png)
+
 Little Frog trinkt gerne Tee und sitzt in ihrer Seerose.
 ![LittleFrog](../assets/portfolio/LFTea.png)
 
