@@ -1,6 +1,15 @@
 @media (max-width: 767px) {
   p {
     font-size: 1.2rem;
+
+    &:has(+ h1, + h2, + h3, + h4, + h5, + h6) img {
+      // Bilder in einem Absatz, der direkt auf eine Überschrift folgt, sollen einen Abstand von 4rem nach oben haben
+      margin-top: 4rem;
+    }
+
+    + h1, + h2, + h3, + h4, + h5, + h6 {
+      margin-top: 2rem;
+    }
   }
 
   .header {
@@ -40,16 +49,6 @@
 
 p {
   line-height: 1.6;
-
-  &:has(+ h1, + h2, + h3, + h4, + h5, + h6) img {
-    // Bilder in einem Absatz, der direkt auf eine Überschrift folgt, sollen einen Abstand von 4rem nach oben haben
-    margin-top: 4rem;
-  }
-
-  + h1, + h2, + h3, + h4, + h5, + h6 {
-    margin-top: 4rem;
-  }
-
 
   // Alle Links sollen die Base Color (türkis) haben
   a {
