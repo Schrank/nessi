@@ -20,7 +20,7 @@ sicherer Ort, etwas, das man lesen kann, um den Gedanken zu entkommen, frei von 
 welche Projekte ich sonst so gerade in Angriff nehme. Ab und an werde ich auch Umfragen verschicken, bei denen ihr bei
 neuen Ideen und
 Charakteren mitwirken könnt, wenn ihr möchtet.<br>
-Ich werde die Geschichten auch als Hörbücher einsprechen, die könnt ihr auf meinem Youtube Kanal … finden 💚.</p>
+Ich werde die Geschichten auch als Hörbücher einsprechen, die könnt ihr auf meinem Youtube Kanal "Vanessa Phillips phillips-art" finden 💚.</p>
 
 <p>Die Geschichten werde ich vorerst nur auf Englisch schreiben.<br>
 Damit ihr auch wisst auf was ihr euch einlasst ist hier der Anfang des ersten Kapitels. Den Rest bekommt ihr in der
@@ -38,7 +38,7 @@ ersten Email 😉</p>
 <p>Little Frog is the main character, who has a cosy life and loads of fun with her friends. The stories are a safe place, something you can read to calm down, free of problems.</p>
 
 <p>I share these stories through my email list plus accompanying pictures and a few lines about my current projects. Every now and then I’ll share a small survey through which you can contribute to new ideas and characters if you want.
-I will also record the stories as audiobooks, which you can find on my youtube channel … 💚</p>
+I will also record the stories as audiobooks, which you can find on my youtube channel "Vanessa Phillips phillips-art" 💚</p>
 
 <p>For now the stories will only be available in English.
 You can read the start of chapter one below, so you know what to expect.
