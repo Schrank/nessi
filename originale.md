@@ -5,7 +5,7 @@ description: "Vanessa Phillips ist eine Illustratorin und Autoren aus Koblenz. I
 Illustration - Charakter Design - Geschichten - Kinderbücher - phillips-art - Illustratorin - Illustrator" 
 ---
 <div lang="de">
-# Originale
+<h1 id="newsletter-e-mail-liste"> Originale </h1>
 
 <p>Hier findet ihr Bilder von den originalen Kunstwerken, die ich zurzeit anbiete.</p>
 
@@ -19,7 +19,7 @@ Illustration - Charakter Design - Geschichten - Kinderbücher - phillips-art - I
 </div>
 
 <div lang="en">
-#Originals
+<h1 id="newsletter-e-mail-liste"> Originals </h1>
 
 <p>Here you can find pictures of original art that I offer.</p>
 
