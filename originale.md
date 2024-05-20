@@ -7,4 +7,14 @@ Illustration - Charakter Design - Geschichten - Kinderbücher - phillips-art - I
 
 # Originale
 
-An dieser Stelle findet ihr bald Originale von mir.
+Hier findet ihr Bilder von den originalen Kunstwerken, die ich zurzeit anbiete.
+
+<p>Bei Interesse sendet mir gerne eine Nachricht über originale@phillips-art.de .</p>
+
+<p>Ein handgemachter Linoldruck von “Little Frog”</p>
+
+<p><img src="/assets/images/LFPrint.jpeg" alt="image"></p>
+
+<p>A6 druck schwarz - 5€ </p>
+
+
