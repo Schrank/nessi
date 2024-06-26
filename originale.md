@@ -32,4 +32,10 @@ Illustration - Charakter Design - Geschichten - Kinderbücher - phillips-art - I
 <p>A6 print black - 5€</p>
 
 
+<p><img src="/assets/images/LFPrint1.jpeg" alt="image"></p>
+
+
+<p><img src="/assets/images/LFPrintKnight.jpeg" alt="image"></p>
+
+
 </div>
