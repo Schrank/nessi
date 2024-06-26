@@ -11,28 +11,26 @@ Illustration - Charakter Design - Geschichten - Kinderbücher - phillips-art - I
 
 <p>Bei Interesse sendet mir gerne eine Nachricht über <a href="mailto:originale@phillips-art.de">originale@phillips-art.de</a>.</p>
 
-<p>Ein handgemachter Linoldruck von “Little Frog”</p>
+<p>Ein handgemachter Linoldruck von Little Frog mit einem Korb Johannisbeeren oder als Ritter.</p>
 
 <p><img src="/assets/images/LFPrint.jpeg" alt="image"></p>
 
 <p>A6 druck schwarz - 5€ </p>
 
-<p> </p>
+<p>
+ </p>
 
-<h3 id="newsletter-e-mail-liste"> Samler Frosch </h3>
-
-<p>Samler Frosch</p>
+<h4 id="newsletter-e-mail-liste"> Samler Frosch </h4>
 
 <p>Sie steht für Schutz und Stabilität.</p>
 
 
 <p><img src="/assets/images/LFPrint1.jpeg" alt="image"></p>
 
-<p> </p>
+<p>
+ </p>
 
-<h3 id="newsletter-e-mail-liste"> Ritter Frosch </h3>
-
-<p>Ritter Frosch</p>
+<h4 id="newsletter-e-mail-liste"> Ritter Frosch </h4>
 
 <p>She stands for protection and stability.</p>
 
@@ -49,29 +47,30 @@ Illustration - Charakter Design - Geschichten - Kinderbücher - phillips-art - I
 
 <p>If you are interested please contact me under  <a href="mailto:originale@phillips-art.de">originale@phillips-art.de</a>.</p>
 
-<p>A handmade lino print of “Little Frog with a basket of redcurrants”</p>
+<p>A handmade lino print of Little Frog with a basket of redcurrants or as a knight.</p>
 
 <p><img src="/assets/images/LFPrint.jpeg" alt="image"></p>
 
 <p>A6 print black - 5€</p>
 
 
-<p> </p>
+<p>
+ </p>
 
-<h3 id="newsletter-e-mail-liste"> Forager Frog </h3>
 
-<p>Forager Frog</p>
+<h4 id="newsletter-e-mail-liste"> Forager Frog </h4>
+
 
 <p>She stands for luck and patience.</p>
 
 
 <p><img src="/assets/images/LFPrint1.jpeg" alt="image"></p>
 
-<p> </p>
+<p>
+ </p>
 
-<h3 id="newsletter-e-mail-liste"> Knight Frog </h3>
 
-<p>Knight Frog</p>
+<h4 id="newsletter-e-mail-liste"> Knight Frog </h4>
 
 <p>She stands for protection and stability.</p>
 
