@@ -9,7 +9,7 @@ Illustration - Charakter Design - Geschichten - Kinderbücher - phillips-art - I
 
 <p>Hier findet ihr Bilder von den originalen Kunstwerken, die ich zurzeit anbiete.</p>
 
-<p>Bei Interesse sendet mir gerne eine Nachricht über originale@phillips-art.de .</p>
+<p>Bei Interesse sendet mir gerne eine Nachricht über <a href="mailto:originale@phillips-art.de">originale@phillips-art.de</a> .</p>
 
 <p>Ein handgemachter Linoldruck von “Little Frog”</p>
 
@@ -40,7 +40,7 @@ Illustration - Charakter Design - Geschichten - Kinderbücher - phillips-art - I
 
 <p>Here you can find pictures of original art that I offer.</p>
 
-<p>If you are interested please contact me under originale@phillips-art.de .</p>
+<p>If you are interested please contact me under  <a href="mailto:originale@phillips-art.de">originale@phillips-art.de</a> .</p>
 
 <p>A handmade lino print of “Little Frog with a basket of redcurrants”</p>
 
