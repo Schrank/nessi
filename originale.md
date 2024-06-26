@@ -16,6 +16,23 @@ Illustration - Charakter Design - Geschichten - Kinderbücher - phillips-art - I
 <p><img src="/assets/images/LFPrint.jpeg" alt="image"></p>
 
 <p>A6 druck schwarz - 5€ </p>
+
+
+<p>Samler Frosch</p>
+
+<p>Sie steht für Schutz und Stabilität.</p>
+
+
+<p><img src="/assets/images/LFPrint1.jpeg" alt="image"></p>
+
+<p>Ritter Frosch</p>
+
+<p>She stands for protection and stability.</p>
+
+
+<p><img src="/assets/images/LFPrintKnight.jpeg" alt="image"></p>
+
+
 </div>
 
 <div lang="en">
@@ -32,7 +49,16 @@ Illustration - Charakter Design - Geschichten - Kinderbücher - phillips-art - I
 <p>A6 print black - 5€</p>
 
 
+<p>Forager Frog</p>
+
+<p>She stands for luck and patience.</p>
+
+
 <p><img src="/assets/images/LFPrint1.jpeg" alt="image"></p>
+
+<p>Knight Frog</p>
+
+<p>She stands for protection and stability.</p>
 
 
 <p><img src="/assets/images/LFPrintKnight.jpeg" alt="image"></p>
