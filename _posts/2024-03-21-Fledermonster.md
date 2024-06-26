@@ -2,7 +2,7 @@
 title: Fledermonster - Bilderbuch Design
 layout: image
 image: /assets/portfolio/FM.jpeg
-thumbnail: assets/portfolio/FM.jepg
+thumbnail: assets/portfolio/FM.jpeg
 alt: Fledermonster
 order: 1
 
