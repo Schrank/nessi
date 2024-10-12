@@ -11,6 +11,8 @@ order: 1
 
 ## Kira Krokodil
 
+Szenen aus dem Buchentwurf 'Kira Krokodil'.
+
 Kira lernt die Straßenregeln zusammen mit Opa.
 
 &

@@ -9,7 +9,9 @@ order: 1
 ---
 
 
-## Fledermonster
+## Das Fledermonster
+
+Szene aus dem Buchentwurf 'Das Fledermonster'.
 
 Das Fledermonster macht einen kleinen Nachtausflug.
 
