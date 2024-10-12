@@ -44,3 +44,8 @@
 {% if site.data.seo.meta_twitter_creator %}
 <meta content="{{ site.seo.meta_twitter_creator }}" name="twitter:creator"/>
 {% endif %}
+{% if page.noindex %}
+<meta name="robots" content="noindex">
+<meta name="robots" content="noimageindex">
+<meta name="robots" content="nofollow">
+{% endif %}
