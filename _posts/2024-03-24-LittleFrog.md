@@ -12,6 +12,7 @@ order: 1
 ## Kleiner Frosch
 
 Sie ist der Hauptcharakter meiner Kurzgeschichten, die ich über meinen [Newsletter](/newsletter) verschicke. 
+![Little Frog](../assets/portfolio/GPNS.jpeg)
 Sie lebt in einem kleinen Haus an einem kleinen Teich und ihre Lieblingsfarbe ist Gelb. 
 
 
@@ -28,8 +29,8 @@ Little Frog trinkt gerne Tee und sitzt in ihrer Seerose.
 Sie lebt in einem kleinen Haus am Rand des Teichs.
 ![LittleFrogHous](../assets/images/LFHousPond.png)
 
-Sie verbringt gerne Zeit mit ihren Freunden.
+Sie verbringt gerne Zeit mit ihren Freunden,
 ![Little FrogDoppel](../assets/portfolio/LFDoppel.png)
 
-Buch Cover:
-![Little Frog](../assets/portfolio/GPNS.jpeg)
+und besucht neue Orte.
+![Little Frog](../assets/portfolio/LFNest.jpeg)

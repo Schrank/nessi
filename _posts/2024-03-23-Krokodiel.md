@@ -1,7 +1,7 @@
 ---
 title: Kira Krokodil - Bilderbuch Design
 layout: image
-image: /assets/portfolio/KK.jpeg
+image: /assets/portfolio/KK.png
 thumbnail: assets/portfolio/KKT.jpeg
 alt: Kira Krokodil
 order: 1
@@ -21,3 +21,5 @@ Kira ist wütend.
 
 ![KiraK](../assets/portfolio/KKN.jpeg)
 
+Charakter Sketches:
+![KiraK](../assets/portfolio/KKS.png)
