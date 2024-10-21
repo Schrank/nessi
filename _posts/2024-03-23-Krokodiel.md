@@ -2,7 +2,7 @@
 title: Kira Krokodil - Bilderbuch Design
 layout: image
 image: /assets/portfolio/KK.png
-thumbnail: assets/portfolio/KKT.jpeg
+thumbnail: assets/portfolio/KK.png
 alt: Kira Krokodil
 order: 1
 
