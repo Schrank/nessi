@@ -17,8 +17,8 @@ show_call_box: true
 Vanessa Phillips<br/>
   <br/>
  
-Hochstr. 23<br/>
-56070 Koblenz<br/>
+Meesenring 4<br/>
+23566 Lübeck<br/>
 </address>
 
 Email: <a href="mailto:info@phillips-art.de">info@phillips-art.de</a><br/>
