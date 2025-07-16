@@ -17,8 +17,8 @@ show_call_box: true
 Vanessa Phillips<br/>
   <br/>
  
-Meesenring 4<br/>
-23566 Lübeck<br/>
+Große Burgstr. 17<br/>
+23552 Lübeck<br/>
 </address>
 
 Email: <a href="mailto:info@phillips-art.de">info@phillips-art.de</a><br/>
