@@ -1,15 +1,15 @@
 ---
 title: Die Künstlerin
 layout: image
-image: /assets/portfolio/MeD.png
-thumbnail: assets/portfolio/MeD.png
+image: /assets/portfolio/NessSP.jpeg
+thumbnail: assets/portfolio/NessSP.jpeg
 alt: Die Künstlerin
 order: 1
 
 ---
 ## Vanessa Phillips
 
-
+![VP1](../assets/portfolio/MeD.png)
 
 #### Englich version:
 
