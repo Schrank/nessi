@@ -1,8 +1,8 @@
 ---
 title: Little Frog - Bilderbuch Design
 layout: image
-image: /assets/portfolio/LFT.png
-thumbnail: assets/portfolio/LFT.png
+image: /assets/portfolio/LFT.jpeg
+thumbnail: assets/portfolio/LFT.jpeg
 alt: Little Frog
 order: 1
 
